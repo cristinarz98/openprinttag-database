@@ -1,4 +1,4 @@
-name: Migrate Material Images
+name: Migrate Images and Sync to Main
 
 on:
   pull_request:
@@ -7,8 +7,6 @@ on:
       - 'data/materials/**'
   push:
     branches: [main-pr]
-    paths:
-      - 'data/materials/**'
 
 concurrency:
   group: merge-to-main
