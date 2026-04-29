@@ -1,0 +1,16 @@
+uuid: e59e59da-a1c9-5d60-82b9-53aa4810bd67
+slug: snapmaker-petg-blue
+brand:
+  slug: snapmaker
+name: PETG Blue
+class: FFF
+type: PETG
+abbreviation: PETG
+url: https://shop.snapmaker.com/products/3d-printer-best-petg-filament-1kg?variant=32787791249471
+primary_color:
+  color_rgba: '#0066ffff'
+properties:
+  density: 1.26
+photos:
+  - url: /tmp/assets/snapmaker-petg-blue-0-ea75851b.jpg
+    type: unspecified

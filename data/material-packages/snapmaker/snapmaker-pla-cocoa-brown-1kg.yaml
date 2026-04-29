@@ -1,0 +1,7 @@
+uuid: ''
+slug: snapmaker-pla-cocoa-brown-1kg
+class: FFF
+material:
+  slug: snapmaker-pla-cocoa-brown
+nominal_netto_full_weight: 1000
+filament_diameter: 1750

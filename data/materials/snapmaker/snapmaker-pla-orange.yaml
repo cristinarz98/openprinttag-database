@@ -1,0 +1,18 @@
+uuid: 5b5c2e2c-98f8-5b76-9339-f4d95c6827b9
+slug: snapmaker-pla-orange
+brand:
+  slug: snapmaker
+name: PLA Orange
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/snapspeed-pla-filament?variant=41985595605055
+primary_color:
+  color_rgba: '#f97429ff'
+tags:
+  - industrially_compostable
+properties:
+  density: 1.23
+photos:
+  - url: /tmp/assets/snapmaker-pla-orange-0-763ded19.jpg
+    type: unspecified

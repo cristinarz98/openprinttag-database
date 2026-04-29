@@ -1,0 +1,19 @@
+uuid: ab3bbc1a-627e-5e37-a800-019e3da09516
+slug: snapmaker-matte-pla-moss-mist
+brand:
+  slug: snapmaker
+name: Matte PLA Moss Mist
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/matte-pla-filament?variant=41754331152447
+primary_color:
+  color_rgba: '#bec9a5ff'
+tags:
+  - matte
+  - industrially_compostable
+properties:
+  density: 1.31
+photos:
+  - url: /tmp/assets/snapmaker-matte-pla-moss-mist-0-4cda5661.jpg
+    type: unspecified

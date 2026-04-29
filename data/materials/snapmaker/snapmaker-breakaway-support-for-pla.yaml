@@ -1,0 +1,14 @@
+uuid: 5502dc66-9d33-5319-9b34-bb9ac1bdb0f7
+slug: snapmaker-breakaway-support-for-pla
+brand:
+  slug: snapmaker
+name: Breakaway Support for PLA
+class: FFF
+abbreviation: BREAKAW
+url: https://shop.snapmaker.com/collections/3d-printer-filament/products/white-breakaway-pla-filament
+primary_color:
+  color_rgba: '#dee2daff'
+properties: {}
+photos:
+  - url: /tmp/assets/snapmaker-breakaway-support-for-pla-0-a6408387.jpg
+    type: unspecified

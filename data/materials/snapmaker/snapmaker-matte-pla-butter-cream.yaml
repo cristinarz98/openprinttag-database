@@ -1,0 +1,19 @@
+uuid: 2d4a79fe-14c0-56f6-8342-77adc445c37a
+slug: snapmaker-matte-pla-butter-cream
+brand:
+  slug: snapmaker
+name: Matte PLA Butter Cream
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/matte-pla-filament?variant=43019032920127
+primary_color:
+  color_rgba: '#fee5a5ff'
+tags:
+  - matte
+  - industrially_compostable
+properties:
+  density: 1.31
+photos:
+  - url: /tmp/assets/snapmaker-matte-pla-butter-cream-0-fb377e6f.jpg
+    type: unspecified

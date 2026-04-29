@@ -1,0 +1,18 @@
+uuid: f2d664f9-3d4f-571d-a38c-c0b7da7cfa96
+slug: snapmaker-pla-purple
+brand:
+  slug: snapmaker
+name: PLA Purple
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/snapspeed-pla-filament?variant=41985595867199
+primary_color:
+  color_rgba: '#6c5bb1ff'
+tags:
+  - industrially_compostable
+properties:
+  density: 1.23
+photos:
+  - url: /tmp/assets/snapmaker-pla-purple-0-bbd614bf.jpg
+    type: unspecified

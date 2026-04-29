@@ -1,0 +1,19 @@
+uuid: f58d32d1-7078-54cd-9090-59f77ec70b29
+slug: snapmaker-matte-pla-ivory-white
+brand:
+  slug: snapmaker
+name: Matte PLA Ivory White
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/matte-pla-filament?variant=41754299138111
+primary_color:
+  color_rgba: '#ffffffff'
+tags:
+  - matte
+  - industrially_compostable
+properties:
+  density: 1.31
+photos:
+  - url: /tmp/assets/snapmaker-matte-pla-ivory-white-0-e3561f49.jpg
+    type: unspecified

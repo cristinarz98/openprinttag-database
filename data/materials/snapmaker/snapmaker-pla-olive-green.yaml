@@ -1,0 +1,18 @@
+uuid: 4fdf4197-ab7c-5e74-b89f-a131526916bd
+slug: snapmaker-pla-olive-green
+brand:
+  slug: snapmaker
+name: PLA Olive Green
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/snapspeed-pla-filament?variant=43019322032191
+primary_color:
+  color_rgba: '#7fc61bff'
+tags:
+  - industrially_compostable
+properties:
+  density: 1.23
+photos:
+  - url: /tmp/assets/snapmaker-pla-olive-green-0-cf23ac29.jpg
+    type: unspecified

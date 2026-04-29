@@ -1,0 +1,19 @@
+uuid: e934fa1f-193b-5793-92fe-cc1c47383666
+slug: snapmaker-matte-pla-celestial-blue
+brand:
+  slug: snapmaker
+name: Matte PLA Celestial Blue
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/matte-pla-filament?variant=41754331283519
+primary_color:
+  color_rgba: '#9cd4ebff'
+tags:
+  - matte
+  - industrially_compostable
+properties:
+  density: 1.31
+photos:
+  - url: /tmp/assets/snapmaker-matte-pla-celestial-blue-0-d4b8d0c4.jpg
+    type: unspecified

@@ -1,0 +1,18 @@
+uuid: 24a7b9d6-01e0-54b9-a78f-9fba21277432
+slug: snapmaker-pla-pink
+brand:
+  slug: snapmaker
+name: PLA Pink
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/snapspeed-pla-filament?variant=43019321049151
+primary_color:
+  color_rgba: '#ffc0cbff'
+tags:
+  - industrially_compostable
+properties:
+  density: 1.23
+photos:
+  - url: /tmp/assets/snapmaker-pla-pink-0-7ce10ff3.jpg
+    type: unspecified

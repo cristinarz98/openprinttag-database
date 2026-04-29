@@ -1,0 +1,19 @@
+uuid: 612b33ec-e2e2-5457-a71d-951e65cfb50b
+slug: snapmaker-matte-pla-carbon-black
+brand:
+  slug: snapmaker
+name: Matte PLA Carbon Black
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/matte-pla-filament?variant=41754299170879
+primary_color:
+  color_rgba: '#000000ff'
+tags:
+  - matte
+  - industrially_compostable
+properties:
+  density: 1.31
+photos:
+  - url: /tmp/assets/snapmaker-matte-pla-carbon-black-0-3a300b52.jpg
+    type: unspecified

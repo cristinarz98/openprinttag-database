@@ -1,0 +1,18 @@
+uuid: 41612780-6c13-5a92-ab98-546121060496
+slug: snapmaker-wood-pla
+brand:
+  slug: snapmaker
+name: Wood PLA
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/collections/3d-printer-filament/products/wood-pla-filament-750g
+primary_color:
+  color_rgba: '#d2a273ff'
+tags:
+  - imitates_wood
+  - industrially_compostable
+properties: {}
+photos:
+  - url: /tmp/assets/snapmaker-wood-pla-0-a8bd0ba2.jpg
+    type: unspecified

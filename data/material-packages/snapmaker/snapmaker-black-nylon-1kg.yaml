@@ -1,0 +1,7 @@
+uuid: ''
+slug: snapmaker-black-nylon-1kg
+class: FFF
+material:
+  slug: snapmaker-black-nylon
+nominal_netto_full_weight: 1000
+filament_diameter: 1750

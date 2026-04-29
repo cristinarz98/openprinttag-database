@@ -1,0 +1,18 @@
+uuid: 8224e40f-7ca2-53fc-bfd8-45782f60c27b
+slug: snapmaker-pla-warm-beige
+brand:
+  slug: snapmaker
+name: PLA Warm Beige
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/snapspeed-pla-filament?variant=43019322359871
+primary_color:
+  color_rgba: '#c19e86ff'
+tags:
+  - industrially_compostable
+properties:
+  density: 1.23
+photos:
+  - url: /tmp/assets/snapmaker-pla-warm-beige-0-e3316c2d.jpg
+    type: unspecified

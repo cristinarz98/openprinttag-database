@@ -1,0 +1,15 @@
+uuid: 6d6d6fb7-5270-5988-9b51-6aad391cd44a
+slug: snapmaker-abs-white
+brand:
+  slug: snapmaker
+name: ABS White
+class: FFF
+type: ABS
+abbreviation: ABS
+url: https://shop.snapmaker.com/products/abs-filament-1-kg?variant=39751293665343
+primary_color:
+  color_rgba: '#ffffffff'
+properties: {}
+photos:
+  - url: /tmp/assets/snapmaker-abs-white-0-c7254de2.jpg
+    type: unspecified

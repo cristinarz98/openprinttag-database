@@ -1,0 +1,16 @@
+uuid: 4a7787d1-aa46-5e6c-82cb-5043c5611074
+slug: snapmaker-petg-red
+brand:
+  slug: snapmaker
+name: PETG Red
+class: FFF
+type: PETG
+abbreviation: PETG
+url: https://shop.snapmaker.com/products/3d-printer-best-petg-filament-1kg?variant=32787791282239
+primary_color:
+  color_rgba: '#e92828ff'
+properties:
+  density: 1.26
+photos:
+  - url: /tmp/assets/snapmaker-petg-red-0-c85162bf.jpg
+    type: unspecified

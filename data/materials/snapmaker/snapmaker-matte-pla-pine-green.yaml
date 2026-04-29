@@ -1,0 +1,19 @@
+uuid: 7cfb8b22-f362-5d72-9695-02e75448f720
+slug: snapmaker-matte-pla-pine-green
+brand:
+  slug: snapmaker
+name: Matte PLA Pine Green
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/matte-pla-filament?variant=41754331185215
+primary_color:
+  color_rgba: '#519f61ff'
+tags:
+  - matte
+  - industrially_compostable
+properties:
+  density: 1.31
+photos:
+  - url: /tmp/assets/snapmaker-matte-pla-pine-green-0-2d7498fa.jpg
+    type: unspecified

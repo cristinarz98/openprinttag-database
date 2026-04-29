@@ -1,0 +1,18 @@
+uuid: 6e5a8b8d-5626-5f7b-b7ee-91f8a0377460
+slug: snapmaker-basic-pla-black
+brand:
+  slug: snapmaker
+name: Basic PLA Black
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/pla-filament-1kg?variant=32778344333375
+primary_color:
+  color_rgba: '#000000ff'
+tags:
+  - industrially_compostable
+properties:
+  density: 1.24
+photos:
+  - url: /tmp/assets/snapmaker-basic-pla-black-0-cf9265cc.jpg
+    type: unspecified

@@ -1,0 +1,18 @@
+uuid: eb66fff2-dd57-5372-a303-ddea2d686a09
+slug: snapmaker-pla-pearl-white
+brand:
+  slug: snapmaker
+name: PLA Pearl White
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/snapspeed-pla-filament?variant=41985594818623
+primary_color:
+  color_rgba: '#e2dedbff'
+tags:
+  - industrially_compostable
+properties:
+  density: 1.23
+photos:
+  - url: /tmp/assets/snapmaker-pla-pearl-white-0-441b7eb6.jpg
+    type: unspecified

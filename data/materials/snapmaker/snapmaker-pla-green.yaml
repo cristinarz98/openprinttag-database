@@ -1,0 +1,18 @@
+uuid: ff433f44-eff2-5623-8fb5-69464cb920e7
+slug: snapmaker-pla-green
+brand:
+  slug: snapmaker
+name: PLA Green
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/snapspeed-pla-filament?variant=41985595342911
+primary_color:
+  color_rgba: '#519f61ff'
+tags:
+  - industrially_compostable
+properties:
+  density: 1.23
+photos:
+  - url: /tmp/assets/snapmaker-pla-green-0-8fdffdab.jpg
+    type: unspecified

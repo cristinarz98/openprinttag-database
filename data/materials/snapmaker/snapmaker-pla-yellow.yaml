@@ -1,0 +1,18 @@
+uuid: 697a3c69-63de-5fa4-bb8b-4adbbd56533f
+slug: snapmaker-pla-yellow
+brand:
+  slug: snapmaker
+name: PLA Yellow
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/snapspeed-pla-filament?variant=41985595736127
+primary_color:
+  color_rgba: '#f4c032ff'
+tags:
+  - industrially_compostable
+properties:
+  density: 1.23
+photos:
+  - url: /tmp/assets/snapmaker-pla-yellow-0-6192b643.jpg
+    type: unspecified

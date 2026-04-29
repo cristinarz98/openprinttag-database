@@ -1,0 +1,7 @@
+uuid: ''
+slug: snapmaker-pla-bright-yellow-1kg
+class: FFF
+material:
+  slug: snapmaker-pla-bright-yellow
+nominal_netto_full_weight: 1000
+filament_diameter: 1750

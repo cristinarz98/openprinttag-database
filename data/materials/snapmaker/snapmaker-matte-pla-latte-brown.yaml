@@ -1,0 +1,19 @@
+uuid: 5a85fa3e-cdd5-5305-9c15-73e65239ef2f
+slug: snapmaker-matte-pla-latte-brown
+brand:
+  slug: snapmaker
+name: Matte PLA Latte Brown
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/matte-pla-filament?variant=43019032756287
+primary_color:
+  color_rgba: '#e3bc9aff'
+tags:
+  - matte
+  - industrially_compostable
+properties:
+  density: 1.31
+photos:
+  - url: /tmp/assets/snapmaker-matte-pla-latte-brown-0-ca8787a5.jpg
+    type: unspecified

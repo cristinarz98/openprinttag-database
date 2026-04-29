@@ -1,0 +1,18 @@
+uuid: d355406d-dfd3-539c-9185-f415ffec86d9
+slug: snapmaker-pla-black
+brand:
+  slug: snapmaker
+name: PLA Black
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/snapspeed-pla-filament?variant=41985594949695
+primary_color:
+  color_rgba: '#080a0dff'
+tags:
+  - industrially_compostable
+properties:
+  density: 1.23
+photos:
+  - url: /tmp/assets/snapmaker-pla-black-0-74de695d.jpg
+    type: unspecified

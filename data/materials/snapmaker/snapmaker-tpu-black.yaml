@@ -1,0 +1,16 @@
+uuid: 7d3e9574-c528-5886-bb1b-c552f43e610e
+slug: snapmaker-tpu-black
+brand:
+  slug: snapmaker
+name: TPU Black
+class: FFF
+type: TPU
+abbreviation: TPU
+url: https://shop.snapmaker.com/products/tpu-filament-1kg?variant=43055261188159
+primary_color:
+  color_rgba: '#000000ff'
+properties:
+  hardness_shore_a: 95.0
+photos:
+  - url: /tmp/assets/snapmaker-tpu-black-0-562e3a7c.jpg
+    type: unspecified

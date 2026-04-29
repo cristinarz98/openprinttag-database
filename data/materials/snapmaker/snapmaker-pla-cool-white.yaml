@@ -1,0 +1,18 @@
+uuid: ae3b47b3-b729-5dba-9d00-4534d6162bc8
+slug: snapmaker-pla-cool-white
+brand:
+  slug: snapmaker
+name: PLA Cool White
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/snapspeed-pla-filament?variant=43019321376831
+primary_color:
+  color_rgba: '#d9dfe5ff'
+tags:
+  - industrially_compostable
+properties:
+  density: 1.23
+photos:
+  - url: /tmp/assets/snapmaker-pla-cool-white-0-a73ea18b.jpg
+    type: unspecified

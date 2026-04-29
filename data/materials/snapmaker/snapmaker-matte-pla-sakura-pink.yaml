@@ -1,0 +1,19 @@
+uuid: b38f7c8f-5019-5b74-a278-63050e33aac6
+slug: snapmaker-matte-pla-sakura-pink
+brand:
+  slug: snapmaker
+name: Matte PLA Sakura Pink
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/matte-pla-filament?variant=41754331316287
+primary_color:
+  color_rgba: '#f3d6e5ff'
+tags:
+  - matte
+  - industrially_compostable
+properties:
+  density: 1.31
+photos:
+  - url: /tmp/assets/snapmaker-matte-pla-sakura-pink-0-1928ad3d.jpg
+    type: unspecified

@@ -1,0 +1,18 @@
+uuid: a44a863f-b379-5e64-ac8c-7fa41ec8fa9a
+slug: snapmaker-black-high-flow-tpu95
+brand:
+  slug: snapmaker
+name: Black High Flow TPU95
+class: FFF
+type: TPU
+abbreviation: TPU
+url: https://shop.snapmaker.com/collections/3d-printer-filament/products/black-high-flow-tpu95-filament-1-kg
+primary_color:
+  color_rgba: '#000000ff'
+tags:
+  - high_speed
+properties:
+  hardness_shore_a: 95.0
+photos:
+  - url: /tmp/assets/snapmaker-black-high-flow-tpu95-0-f394f50e.jpg
+    type: unspecified

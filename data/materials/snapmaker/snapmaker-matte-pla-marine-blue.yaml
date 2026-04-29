@@ -1,0 +1,19 @@
+uuid: 96e121f2-61b4-5f4a-a7ed-3cce3c7e8be5
+slug: snapmaker-matte-pla-marine-blue
+brand:
+  slug: snapmaker
+name: Matte PLA Marine Blue
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/matte-pla-filament?variant=43019032592447
+primary_color:
+  color_rgba: '#0078bfff'
+tags:
+  - matte
+  - industrially_compostable
+properties:
+  density: 1.31
+photos:
+  - url: /tmp/assets/snapmaker-matte-pla-marine-blue-0-b233fd8c.jpg
+    type: unspecified

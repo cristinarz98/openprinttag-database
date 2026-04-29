@@ -1,0 +1,18 @@
+uuid: d2073633-b57f-5043-a1ac-3fd7e982bc25
+slug: snapmaker-pla-blue-gray
+brand:
+  slug: snapmaker
+name: PLA Blue Gray
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/snapspeed-pla-filament?variant=43019322196031
+primary_color:
+  color_rgba: '#94b7c9ff'
+tags:
+  - industrially_compostable
+properties:
+  density: 1.23
+photos:
+  - url: /tmp/assets/snapmaker-pla-blue-gray-0-084ccc05.jpg
+    type: unspecified

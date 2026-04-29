@@ -1,0 +1,21 @@
+uuid: ec33f4ed-0ec9-501b-a4a5-b9f9ebd91430
+slug: snapmaker-glow-in-the-dark-green-pla
+brand:
+  slug: snapmaker
+name: Glow-in-the-dark Green PLA
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/collections/3d-printer-filament/products/glow-in-the-dark-green-pla-filament-1kg
+secondary_colors:
+  - color_rgba: '#46df55ff'
+  - color_rgba: '#f8f8eeff'
+tags:
+  - glow_in_the_dark
+  - abrasive
+  - illuminescent_color_change
+  - industrially_compostable
+properties: {}
+photos:
+  - url: /tmp/assets/snapmaker-glow-in-the-dark-green-pla-0-c9ba0d24.jpg
+    type: unspecified

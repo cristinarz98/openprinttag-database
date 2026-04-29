@@ -1,0 +1,19 @@
+uuid: 714832a5-4027-5d15-9e26-a29827d725cf
+slug: snapmaker-matte-pla-ash-grey
+brand:
+  slug: snapmaker
+name: Matte PLA Ash Grey
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/matte-pla-filament?variant=41754331250751
+primary_color:
+  color_rgba: '#9b9ea0ff'
+tags:
+  - matte
+  - industrially_compostable
+properties:
+  density: 1.31
+photos:
+  - url: /tmp/assets/snapmaker-matte-pla-ash-grey-0-df0ffbc2.jpg
+    type: unspecified

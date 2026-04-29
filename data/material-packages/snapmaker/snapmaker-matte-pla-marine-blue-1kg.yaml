@@ -1,0 +1,7 @@
+uuid: ''
+slug: snapmaker-matte-pla-marine-blue-1kg
+class: FFF
+material:
+  slug: snapmaker-matte-pla-marine-blue
+nominal_netto_full_weight: 1000
+filament_diameter: 1750

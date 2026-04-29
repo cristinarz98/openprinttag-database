@@ -1,0 +1,18 @@
+uuid: 52952687-ee5b-5c58-87de-a5c227d706a5
+slug: snapmaker-pla-brown
+brand:
+  slug: snapmaker
+name: PLA Brown
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/snapspeed-pla-filament?variant=41985595998271
+primary_color:
+  color_rgba: '#6f4c2fff'
+tags:
+  - industrially_compostable
+properties:
+  density: 1.23
+photos:
+  - url: /tmp/assets/snapmaker-pla-brown-0-b4141273.jpg
+    type: unspecified

@@ -1,0 +1,16 @@
+uuid: b5ab3c04-1106-5e1d-8851-0853f98f9f79
+slug: snapmaker-tpu-yellow
+brand:
+  slug: snapmaker
+name: TPU Yellow
+class: FFF
+type: TPU
+abbreviation: TPU
+url: https://shop.snapmaker.com/products/tpu-filament-1kg?variant=43055261319231
+primary_color:
+  color_rgba: '#f5ce00ff'
+properties:
+  hardness_shore_a: 95.0
+photos:
+  - url: /tmp/assets/snapmaker-tpu-yellow-0-41de807f.jpg
+    type: unspecified

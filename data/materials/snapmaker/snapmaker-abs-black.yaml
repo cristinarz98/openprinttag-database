@@ -1,0 +1,15 @@
+uuid: 9fc8326d-89ca-598e-91cc-c15c2c87b41b
+slug: snapmaker-abs-black
+brand:
+  slug: snapmaker
+name: ABS Black
+class: FFF
+type: ABS
+abbreviation: ABS
+url: https://shop.snapmaker.com/products/abs-filament-1-kg?variant=39751293632575
+primary_color:
+  color_rgba: '#000000ff'
+properties: {}
+photos:
+  - url: /tmp/assets/snapmaker-abs-black-0-e4e58ef8.jpg
+    type: unspecified

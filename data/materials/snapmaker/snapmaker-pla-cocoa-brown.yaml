@@ -1,0 +1,18 @@
+uuid: eefdde59-6c8f-5e3e-9441-34716be3d219
+slug: snapmaker-pla-cocoa-brown
+brand:
+  slug: snapmaker
+name: PLA Cocoa Brown
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/snapspeed-pla-filament?variant=43019322523711
+primary_color:
+  color_rgba: '#674b47ff'
+tags:
+  - industrially_compostable
+properties:
+  density: 1.23
+photos:
+  - url: /tmp/assets/snapmaker-pla-cocoa-brown-0-ffbc4482.jpg
+    type: unspecified

@@ -1,0 +1,18 @@
+uuid: fdac3181-0a6a-53b1-a2cb-0527d0ecc9aa
+slug: snapmaker-pla-magenta
+brand:
+  slug: snapmaker
+name: PLA Magenta
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/snapspeed-pla-filament?variant=43019321540671
+primary_color:
+  color_rgba: '#f24574ff'
+tags:
+  - industrially_compostable
+properties:
+  density: 1.23
+photos:
+  - url: /tmp/assets/snapmaker-pla-magenta-0-122bdbd7.jpg
+    type: unspecified

@@ -1,0 +1,18 @@
+uuid: c0e057c6-64a0-5e4a-9b77-7c23f32bc0e8
+slug: snapmaker-pla-red
+brand:
+  slug: snapmaker
+name: PLA Red
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/snapspeed-pla-filament?variant=41985595211839
+primary_color:
+  color_rgba: '#e72f1dff'
+tags:
+  - industrially_compostable
+properties:
+  density: 1.23
+photos:
+  - url: /tmp/assets/snapmaker-pla-red-0-1f965ddd.jpg
+    type: unspecified

@@ -1,0 +1,14 @@
+uuid: b373ec66-f102-5e95-afcc-70778b788764
+slug: snapmaker-black-nylon
+brand:
+  slug: snapmaker
+name: Black Nylon
+class: FFF
+abbreviation: BLACK
+url: https://shop.snapmaker.com/products/black-nylon-filament-1kg?variant=43055283044415
+primary_color:
+  color_rgba: '#000000ff'
+properties: {}
+photos:
+  - url: /tmp/assets/snapmaker-black-nylon-0-e5db2f12.jpg
+    type: unspecified

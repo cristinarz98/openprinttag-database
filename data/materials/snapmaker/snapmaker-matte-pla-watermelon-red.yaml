@@ -1,0 +1,19 @@
+uuid: debaf100-f110-5d8d-b16a-41e60bd11348
+slug: snapmaker-matte-pla-watermelon-red
+brand:
+  slug: snapmaker
+name: Matte PLA Watermelon Red
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/matte-pla-filament?variant=43019032428607
+primary_color:
+  color_rgba: '#f45d6dff'
+tags:
+  - matte
+  - industrially_compostable
+properties:
+  density: 1.31
+photos:
+  - url: /tmp/assets/snapmaker-matte-pla-watermelon-red-0-56148a13.jpg
+    type: unspecified

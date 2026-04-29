@@ -1,0 +1,19 @@
+uuid: eabef7a9-c9ad-5320-a7de-642d99771b00
+slug: snapmaker-matte-pla-lava-orange
+brand:
+  slug: snapmaker
+name: Matte PLA Lava Orange
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/matte-pla-filament?variant=41754331086911
+primary_color:
+  color_rgba: '#f78e0eff'
+tags:
+  - matte
+  - industrially_compostable
+properties:
+  density: 1.31
+photos:
+  - url: /tmp/assets/snapmaker-matte-pla-lava-orange-0-1514a6d0.jpg
+    type: unspecified

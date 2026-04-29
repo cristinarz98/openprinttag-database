@@ -1,0 +1,19 @@
+uuid: 6e26b7b5-7f7f-5243-820f-d0b64d817888
+slug: snapmaker-matte-pla-engine-red
+brand:
+  slug: snapmaker
+name: Matte PLA Engine Red
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://shop.snapmaker.com/products/matte-pla-filament?variant=41754331217983
+primary_color:
+  color_rgba: '#de1619ff'
+tags:
+  - matte
+  - industrially_compostable
+properties:
+  density: 1.31
+photos:
+  - url: /tmp/assets/snapmaker-matte-pla-engine-red-0-2381c636.jpg
+    type: unspecified
