@@ -1,0 +1,17 @@
+uuid: ce279d6b-3608-5785-bbac-b66770de10c9
+slug: esun-tpe-83a-black
+brand:
+  slug: esun
+name: TPE 83A Black
+class: FFF
+type: TPE
+abbreviation: TPE
+url: https://esun3dstoreeu.com/products/tpe-83a?VariantsId=12504
+primary_color:
+  color_rgba: '#000000ff'
+properties:
+  density: 1.14
+  hardness_shore_a: 83.0
+photos:
+  - url: /tmp/assets/esun-tpe-83a-black-0-67604fab.jpg
+    type: unspecified

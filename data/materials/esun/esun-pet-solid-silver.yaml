@@ -6,9 +6,10 @@ name: PET Solid Silver
 class: FFF
 type: PET
 abbreviation: PET
+url: https://www.amazon.com/eSUN-Filament-Resistance-Toughness-Transparent/dp/B0DDBV1BH5
 primary_color:
   color_rgba: '#abacb0ff'
-photos:
-- url: https://files.openprinttag.org/esun/esun-pet-solid-silver/e4102f753447.jpg
-  type: unspecified
 properties: {}
+photos:
+  - url: https://files.openprinttag.org/esun/esun-pet-solid-silver/e4102f753447.jpg
+    type: unspecified

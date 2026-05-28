@@ -6,9 +6,10 @@ name: PET Solid White
 class: FFF
 type: PET
 abbreviation: PET
+url: https://www.amazon.com/eSUN-Filament-Resistance-Toughness-Transparent/dp/B0DDBYTG7J
 primary_color:
   color_rgba: '#ffffffff'
-photos:
-- url: https://files.openprinttag.org/esun/esun-pet-solid-white/ed4ea2e8f335.jpg
-  type: unspecified
 properties: {}
+photos:
+  - url: https://files.openprinttag.org/esun/esun-pet-solid-white/ed4ea2e8f335.jpg
+    type: unspecified
