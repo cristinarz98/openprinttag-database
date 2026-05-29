@@ -1,0 +1,19 @@
+uuid: d29b900a-064f-5240-8ea2-0f33e1893c32
+slug: esun-pa-clear
+brand:
+  slug: esun
+name: PA Clear
+class: FFF
+type: PA6
+abbreviation: PA6
+url: https://esun3dstoreeu.com/products/epa?VariantsId=13475
+primary_color:
+  color_rgba: '#f8f8eeff'
+tags:
+  - translucent
+  - filtration_recommended
+properties:
+  density: 1.12
+photos:
+  - url: /tmp/assets/esun-pa-clear-0-acc947bf.jpg
+    type: unspecified

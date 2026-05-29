@@ -6,9 +6,10 @@ name: PET Solid Black
 class: FFF
 type: PET
 abbreviation: PET
+url: https://www.amazon.com/eSUN-Filament-Resistance-Toughness-Transparent/dp/B0DDBWK2MT
 primary_color:
   color_rgba: '#000000ff'
-photos:
-- url: https://files.openprinttag.org/esun/esun-pet-solid-black/ef23771c8f23.jpg
-  type: unspecified
 properties: {}
+photos:
+  - url: https://files.openprinttag.org/esun/esun-pet-solid-black/ef23771c8f23.jpg
+    type: unspecified
