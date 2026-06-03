@@ -6,5 +6,6 @@ container:
   slug: old-prusament-spool-1kg
 material:
   slug: prusament-pp-glass-fiber-natural
+url: https://www.prusa3d.com/product/prusament-pp-glass-fiber-natural-850g/
 nominal_netto_full_weight: 850
 filament_diameter: 1750

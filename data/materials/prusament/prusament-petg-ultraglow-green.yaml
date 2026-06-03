@@ -6,13 +6,12 @@ name: PETG Ultraglow Green
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://www.prusa3d.com/product/prusament-petg-ultraglow-green-800g-nfc/
 primary_color:
   color_rgba: '#eefce6ff'
 tags:
-- glow_in_the_dark
-- abrasive
-- illuminescent_color_change
+  - glow_in_the_dark
+  - abrasive
+  - illuminescent_color_change
 properties:
   density: 1.5
   hardness_shore_d: 77.0
@@ -25,5 +24,5 @@ properties:
   min_chamber_temperature: 18
   max_chamber_temperature: 60
 photos:
-- url: https://files.openprinttag.org/prusament/prusament-petg-ultraglow-green/prusament-petg-ultraglow-green-0-c06f0ede.jpg
-  type: unspecified
+  - url: https://files.openprinttag.org/prusament/prusament-petg-ultraglow-green/prusament-petg-ultraglow-green-0-c06f0ede.jpg
+    type: unspecified

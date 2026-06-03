@@ -6,5 +6,6 @@ container:
   slug: old-prusament-high-temperature-spool-with-bolts-1kg
 material:
   slug: prusament-pei-1010-natural
+url: https://www.prusa3d.com/product/prusament-pei-1010-natural-500g/
 nominal_netto_full_weight: 500
 filament_diameter: 1750

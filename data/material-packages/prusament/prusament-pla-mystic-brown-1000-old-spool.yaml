@@ -6,5 +6,6 @@ container:
   slug: old-prusament-spool-1kg
 material:
   slug: prusament-pla-mystic-brown
+url: https://www.prusa3d.com/product/prusament-premium-pla-mystic-brown-1kg-2/
 nominal_netto_full_weight: 1000
 filament_diameter: 1750

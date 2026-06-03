@@ -6,5 +6,6 @@ container:
   slug: old-prusament-spool-1kg
 material:
   slug: prusament-petg-v0-natural
+url: https://www.prusa3d.com/product/prusament-petg-v0-natural-1kg/
 nominal_netto_full_weight: 1000
 filament_diameter: 1750
