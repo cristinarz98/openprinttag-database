@@ -10,10 +10,10 @@ url: https://us.qidi3d.com/products/qidi-tech-pc-abs-fr-filament
 primary_color:
   color_rgba: '#ffffffff'
 tags:
-- self_extinguishing
-- filtration_recommended
+  - self_extinguishing
+  - filtration_recommended
 properties:
   density: 1.08
 photos:
-- url: https://files.openprinttag.org/qidi/qidi-pc-abs-fr-white/qidi-pc-abs-fr-white-0-1115bf58.jpg
-  type: unspecified
+  - url: /tmp/assets/qidi-pc-abs-fr-white-0-1115bf58.jpg
+    type: unspecified
