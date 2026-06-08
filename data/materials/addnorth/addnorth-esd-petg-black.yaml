@@ -18,6 +18,3 @@ properties:
   max_print_temperature: 270
   min_bed_temperature: 80
   max_bed_temperature: 85
-photos:
-  - url: /tmp/assets/addnorth-esd-petg-black-0-1c1598b6.png
-    type: unspecified
