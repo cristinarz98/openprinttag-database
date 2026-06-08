@@ -1,0 +1,22 @@
+uuid: 5d8a4fb9-4cc2-5e4b-a2f1-9440074c90a6
+slug: add-north-e-pla-black
+brand:
+  slug: addnorth
+name: E-PLA Black
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://addnorth.com/product/E-PLA/E-PLA%20-%201.75mm%20-%202300g%20-%20Black
+primary_color:
+  color_rgba: '#000000ff'
+tags:
+  - industrially_compostable
+properties:
+  density: 1.24
+  min_print_temperature: 205
+  max_print_temperature: 225
+  min_bed_temperature: 0
+  max_bed_temperature: 60
+photos:
+  - url: /tmp/assets/add-north-e-pla-black-0-81068d01.png
+    type: unspecified

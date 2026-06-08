@@ -1,0 +1,23 @@
+uuid: b4f0690a-adb1-51c6-8252-4c44e0f62187
+slug: add-north-pla-premium-silk-silver
+brand:
+  slug: addnorth
+name: PLA Premium Silk Silver
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://addnorth.com/product/PLA%20Premium%20Silk/PLA%20Premium%20Silk%20-%201.75mm%20-%201000g%20-%20Silver
+primary_color:
+  color_rgba: '#a8b0bdff'
+tags:
+  - silk
+  - industrially_compostable
+properties:
+  density: 1.26
+  min_print_temperature: 210
+  max_print_temperature: 245
+  min_bed_temperature: 0
+  max_bed_temperature: 60
+photos:
+  - url: /tmp/assets/add-north-pla-premium-silk-silver-0-c80e1d55.png
+    type: unspecified

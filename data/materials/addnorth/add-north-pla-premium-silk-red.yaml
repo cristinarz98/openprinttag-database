@@ -1,0 +1,23 @@
+uuid: 9d0151c1-18b8-5ec6-91a2-f92d6fa4fe90
+slug: add-north-pla-premium-silk-red
+brand:
+  slug: addnorth
+name: PLA Premium Silk Red
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://addnorth.com/product/PLA%20Premium%20Silk/PLA%20Premium%20Silk%20-%201.75mm%20-%201000g%20-%20Red
+primary_color:
+  color_rgba: '#ed1536ff'
+tags:
+  - silk
+  - industrially_compostable
+properties:
+  density: 1.26
+  min_print_temperature: 210
+  max_print_temperature: 245
+  min_bed_temperature: 0
+  max_bed_temperature: 60
+photos:
+  - url: /tmp/assets/add-north-pla-premium-silk-red-0-a8082d7a.png
+    type: unspecified

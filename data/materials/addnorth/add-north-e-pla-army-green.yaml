@@ -1,0 +1,22 @@
+uuid: 38606d6b-9334-5d77-8ebb-287e94bc1dbe
+slug: add-north-e-pla-army-green
+brand:
+  slug: addnorth
+name: E-PLA Army Green
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://addnorth.com/product/E-PLA?diameter=1.75&size=2300&color=Army%20Green
+primary_color:
+  color_rgba: '#99a45fff'
+tags:
+  - industrially_compostable
+properties:
+  density: 1.24
+  min_print_temperature: 205
+  max_print_temperature: 225
+  min_bed_temperature: 0
+  max_bed_temperature: 60
+photos:
+  - url: /tmp/assets/add-north-e-pla-army-green-0-329133b5.png
+    type: unspecified

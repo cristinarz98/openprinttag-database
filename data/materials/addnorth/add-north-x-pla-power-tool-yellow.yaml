@@ -1,0 +1,22 @@
+uuid: 12b77546-2e4b-5e30-a1a0-09089510f802
+slug: add-north-x-pla-power-tool-yellow
+brand:
+  slug: addnorth
+name: X-PLA Power Tool Yellow
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://addnorth.com/product/X-PLA/X-PLA%20-%201.75mm%20-%201000g%20-%20Power%20Tool%20Yellow
+primary_color:
+  color_rgba: '#ffc946ff'
+tags:
+  - industrially_compostable
+properties:
+  density: 1.25
+  min_print_temperature: 180
+  max_print_temperature: 220
+  min_bed_temperature: 0
+  max_bed_temperature: 70
+photos:
+  - url: /tmp/assets/add-north-x-pla-power-tool-yellow-0-40d6a793.png
+    type: unspecified

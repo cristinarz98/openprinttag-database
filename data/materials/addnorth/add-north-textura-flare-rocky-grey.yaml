@@ -1,0 +1,21 @@
+uuid: 640f22b5-f009-53dd-99b0-e0b2d12fa1c2
+slug: add-north-textura-flare-rocky-grey
+brand:
+  slug: addnorth
+name: Textura™ Flare Rocky Grey
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://addnorth.com/product/Textura%E2%84%A2%20Flare/Textura%E2%84%A2%20Flare%20-%201.75mm%20-%201000g%20-%20Rocky%20Grey
+primary_color:
+  color_rgba: '#697272ff'
+tags:
+  - glitter
+  - matte
+  - industrially_compostable
+properties:
+  min_print_temperature: 200
+  max_print_temperature: 220
+photos:
+  - url: /tmp/assets/add-north-textura-flare-rocky-grey-0-d1b79550.png
+    type: unspecified

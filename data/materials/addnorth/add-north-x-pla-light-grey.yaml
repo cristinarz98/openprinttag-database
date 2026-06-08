@@ -1,0 +1,22 @@
+uuid: 62344c4c-d1af-522a-853b-df38b4ed4a15
+slug: add-north-x-pla-light-grey
+brand:
+  slug: addnorth
+name: X-PLA Light Grey
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://addnorth.com/product/X-PLA/X-PLA%20-%201.75mm%20-%201000g%20-%20Light%20Grey
+primary_color:
+  color_rgba: '#9f9f9fff'
+tags:
+  - industrially_compostable
+properties:
+  density: 1.25
+  min_print_temperature: 180
+  max_print_temperature: 220
+  min_bed_temperature: 0
+  max_bed_temperature: 70
+photos:
+  - url: /tmp/assets/add-north-x-pla-light-grey-0-81a81126.png
+    type: unspecified

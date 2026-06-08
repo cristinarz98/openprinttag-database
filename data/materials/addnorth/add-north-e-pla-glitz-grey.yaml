@@ -1,0 +1,23 @@
+uuid: ee3413e3-2449-5a7d-815f-d481c11232e8
+slug: add-north-e-pla-glitz-grey
+brand:
+  slug: addnorth
+name: E-PLA Glitz Grey
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://addnorth.com/product/E-PLA/E-PLA%20-%201.75mm%20-%201000g%20-%20Glitz%20Grey
+primary_color:
+  color_rgba: '#45444aff'
+tags:
+  - glitter
+  - industrially_compostable
+properties:
+  density: 1.24
+  min_print_temperature: 205
+  max_print_temperature: 225
+  min_bed_temperature: 0
+  max_bed_temperature: 60
+photos:
+  - url: /tmp/assets/add-north-e-pla-glitz-grey-0-608d29b1.png
+    type: unspecified

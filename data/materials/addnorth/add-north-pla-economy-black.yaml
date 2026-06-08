@@ -1,0 +1,17 @@
+uuid: 849e417d-6850-5db0-bdf6-544bb414cb64
+slug: add-north-pla-economy-black
+brand:
+  slug: addnorth
+name: PLA Economy Black
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://addnorth.com/product/PLA%20Economy/PLA%20Economy%20-%201.75mm%20-%201000g%20-%20Black
+primary_color:
+  color_rgba: '#000000ff'
+tags:
+  - industrially_compostable
+properties: {}
+photos:
+  - url: /tmp/assets/add-north-pla-economy-black-0-505d1628.png
+    type: unspecified
