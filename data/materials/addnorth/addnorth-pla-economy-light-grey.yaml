@@ -6,11 +6,12 @@ name: PLA Economy Light Grey
 class: FFF
 type: PLA
 abbreviation: PLA
+url: https://addnorth.com/product/PLA%20Economy/PLA%20Economy%20-%201.75mm%20-%201000g%20-%20Light%20Grey
 primary_color:
   color_rgba: '#c5c5bfff'
 tags:
-- industrially_compostable
-photos:
-- url: https://files.openprinttag.org/addnorth/addnorth-pla-economy-light-grey/7fe779cfb768.png
-  type: unspecified
+  - industrially_compostable
 properties: {}
+photos:
+  - url: https://files.openprinttag.org/addnorth/addnorth-pla-economy-light-grey/7fe779cfb768.png
+    type: unspecified

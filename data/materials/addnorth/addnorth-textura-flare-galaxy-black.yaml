@@ -6,14 +6,17 @@ name: Textura™ Flare Galaxy Black
 class: FFF
 type: PLA
 abbreviation: PLA
+url: https://addnorth.com/product/Textura%E2%84%A2%20Flare/Textura%E2%84%A2%20Flare%20-%201.75mm%20-%201000g%20-%20Galaxy%20Black
 primary_color:
   color_rgba: '#000000ff'
 tags:
-- glitter
-- matte
-- industrially_compostable
-- contains_organic_material
+  - glitter
+  - matte
+  - industrially_compostable
+  - contains_organic_material
+properties:
+  min_print_temperature: 200
+  max_print_temperature: 220
 photos:
-- url: https://files.openprinttag.org/addnorth/addnorth-textura-flare-galaxy-black/672bc109906f.png
-  type: unspecified
-properties: {}
+  - url: https://files.openprinttag.org/addnorth/addnorth-textura-flare-galaxy-black/672bc109906f.png
+    type: unspecified
