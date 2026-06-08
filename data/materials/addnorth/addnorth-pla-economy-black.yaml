@@ -6,11 +6,12 @@ name: PLA Economy Black
 class: FFF
 type: PLA
 abbreviation: PLA
+url: https://addnorth.com/product/PLA%20Economy/PLA%20Economy%20-%201.75mm%20-%201000g%20-%20Black
 primary_color:
   color_rgba: '#000000ff'
 tags:
-- industrially_compostable
-photos:
-- url: https://files.openprinttag.org/addnorth/addnorth-pla-economy-black/59bfb1bce9de.png
-  type: unspecified
+  - industrially_compostable
 properties: {}
+photos:
+  - url: https://files.openprinttag.org/addnorth/addnorth-pla-economy-black/59bfb1bce9de.png
+    type: unspecified

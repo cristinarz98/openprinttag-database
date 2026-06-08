@@ -6,13 +6,15 @@ name: Textura™ Matte White
 class: FFF
 type: PLA
 abbreviation: PLA
+url: https://addnorth.com/product/Textura%E2%84%A2/Textura%E2%84%A2%20-%201.75mm%20-%201000g%20-%20Matte%20White
 primary_color:
   color_rgba: '#ffffffff'
 tags:
-- matte
-- industrially_compostable
-- contains_organic_material
+  - matte
+  - industrially_compostable
+properties:
+  min_print_temperature: 205
+  max_print_temperature: 220
 photos:
-- url: https://files.openprinttag.org/addnorth/addnorth-textura-matte-white/1bda0f47e99a.png
-  type: unspecified
-properties: {}
+  - url: https://files.openprinttag.org/addnorth/addnorth-textura-matte-white/1bda0f47e99a.png
+    type: unspecified

@@ -6,11 +6,17 @@ name: E-PLA Gold
 class: FFF
 type: PLA
 abbreviation: PLA
+url: https://addnorth.com/product/E-PLA/E-PLA%20-%201.75mm%20-%201000g%20-%20Gold
 primary_color:
   color_rgba: '#ffcb47ff'
 tags:
-- industrially_compostable
+  - industrially_compostable
+properties:
+  density: 1.24
+  min_print_temperature: 205
+  max_print_temperature: 225
+  min_bed_temperature: 0
+  max_bed_temperature: 60
 photos:
-- url: https://files.openprinttag.org/addnorth/addnorth-e-pla-gold/219bc78e0958.png
-  type: unspecified
-properties: {}
+  - url: https://files.openprinttag.org/addnorth/addnorth-e-pla-gold/219bc78e0958.png
+    type: unspecified
