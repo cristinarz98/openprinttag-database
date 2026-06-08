@@ -6,9 +6,10 @@ name: PETG White
 class: FFF
 type: PETG
 abbreviation: PETG
+url: https://addnorth.com/product/PETG/PETG%20-%201.75mm%20-%202300g%20-%20White
 primary_color:
   color_rgba: '#ffffffff'
-photos:
-- url: https://files.openprinttag.org/addnorth/addnorth-petg-white/2bfa7dd29972.png
-  type: unspecified
 properties: {}
+photos:
+  - url: https://files.openprinttag.org/addnorth/addnorth-petg-white/2bfa7dd29972.png
+    type: unspecified

@@ -6,12 +6,18 @@ name: rPETG Matte Grey
 class: FFF
 type: PETG
 abbreviation: PETG
+url: https://addnorth.com/product/rPETG%20Matte/rPETG%20Matte%20-%201.75mm%20-%201000g%20-%20Grey
 primary_color:
-  color_rgba: '#6a6c6eff'
+  color_rgba: '#c1c1c1ff'
 tags:
-- matte
-- recycled
+  - recycled
+  - matte
+properties:
+  density: 1.27
+  min_print_temperature: 225
+  max_print_temperature: 260
+  min_bed_temperature: 0
+  max_bed_temperature: 80
 photos:
-- url: https://files.openprinttag.org/addnorth/addnorth-rpetg-matte-grey/6b17c48c1170.jpg
-  type: unspecified
-properties: {}
+  - url: https://files.openprinttag.org/addnorth/addnorth-rpetg-matte-grey/6b17c48c1170.jpg
+    type: unspecified

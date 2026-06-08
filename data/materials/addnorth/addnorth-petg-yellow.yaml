@@ -6,9 +6,10 @@ name: PETG Yellow
 class: FFF
 type: PETG
 abbreviation: PETG
+url: https://addnorth.com/product/PETG/PETG%20-%201.75mm%20-%20750g%20-%20Yellow
 primary_color:
   color_rgba: '#fbe200ff'
-photos:
-- url: https://files.openprinttag.org/addnorth/addnorth-petg-yellow/4379b8f8c296.png
-  type: unspecified
 properties: {}
+photos:
+  - url: https://files.openprinttag.org/addnorth/addnorth-petg-yellow/4379b8f8c296.png
+    type: unspecified
