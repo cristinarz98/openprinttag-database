@@ -6,12 +6,18 @@ name: PLA Premium Silk Green
 class: FFF
 type: PLA
 abbreviation: PLA
+url: https://addnorth.com/product/PLA%20Premium%20Silk/PLA%20Premium%20Silk%20-%201.75mm%20-%201000g%20-%20Green
 primary_color:
   color_rgba: '#018e63ff'
 tags:
-- silk
-- industrially_compostable
+  - silk
+  - industrially_compostable
+properties:
+  density: 1.26
+  min_print_temperature: 210
+  max_print_temperature: 245
+  min_bed_temperature: 0
+  max_bed_temperature: 60
 photos:
-- url: https://files.openprinttag.org/addnorth/addnorth-pla-premium-silk-green/9a85805acf74.png
-  type: unspecified
-properties: {}
+  - url: https://files.openprinttag.org/addnorth/addnorth-pla-premium-silk-green/9a85805acf74.png
+    type: unspecified
