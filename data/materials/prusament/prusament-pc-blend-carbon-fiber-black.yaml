@@ -5,7 +5,7 @@ brand:
 name: PC Blend Carbon Fiber Black
 class: FFF
 type: PC
-abbreviation: PC
+abbreviation: PCCF
 primary_color:
   color_rgba: '#262727ff'
 transmission_distance: 0.1

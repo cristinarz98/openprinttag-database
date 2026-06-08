@@ -5,7 +5,7 @@ brand:
 name: PC Blend HT LCF Black
 class: FFF
 type: PC
-abbreviation: PC
+abbreviation: PCCF
 primary_color:
   color_rgba: '#000000ff'
 tags:
