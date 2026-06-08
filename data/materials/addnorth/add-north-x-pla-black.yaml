@@ -1,0 +1,22 @@
+uuid: d5ea8f0e-d003-54a6-88c6-99fa6f6e2875
+slug: add-north-x-pla-black
+brand:
+  slug: addnorth
+name: X-PLA Black
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://addnorth.com/product/X-PLA/X-PLA%20-%201.75mm%20-%201000g%20-%20Black
+primary_color:
+  color_rgba: '#000000ff'
+tags:
+  - industrially_compostable
+properties:
+  density: 1.25
+  min_print_temperature: 180
+  max_print_temperature: 220
+  min_bed_temperature: 0
+  max_bed_temperature: 70
+photos:
+  - url: /tmp/assets/add-north-x-pla-black-0-4ad1d07c.png
+    type: unspecified

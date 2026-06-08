@@ -1,0 +1,19 @@
+uuid: e7733da8-f824-5d3c-9fce-f30f7cb17c41
+slug: add-north-x-pla-high-speed-black
+brand:
+  slug: addnorth
+name: X-PLA High Speed Black
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://addnorth.com/product/X-PLA%20High%20Speed/X-PLA%20High%20Speed%20-%201.75mm%20-%20750g%20-%20Black
+primary_color:
+  color_rgba: '#000000ff'
+tags:
+  - high_speed
+  - matte
+  - industrially_compostable
+properties: {}
+photos:
+  - url: /tmp/assets/add-north-x-pla-high-speed-black-0-828c93d4.png
+    type: unspecified

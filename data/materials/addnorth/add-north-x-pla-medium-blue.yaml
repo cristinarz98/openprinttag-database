@@ -1,0 +1,22 @@
+uuid: e29aa7e4-aed3-54f9-b999-715c869b45a7
+slug: add-north-x-pla-medium-blue
+brand:
+  slug: addnorth
+name: X-PLA Medium Blue
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://addnorth.com/product/X-PLA/X-PLA%20-%201.75mm%20-%201000g%20-%20Medium%20Blue
+primary_color:
+  color_rgba: '#0066d9ff'
+tags:
+  - industrially_compostable
+properties:
+  density: 1.25
+  min_print_temperature: 180
+  max_print_temperature: 220
+  min_bed_temperature: 0
+  max_bed_temperature: 70
+photos:
+  - url: /tmp/assets/add-north-x-pla-medium-blue-0-7d325426.png
+    type: unspecified

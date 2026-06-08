@@ -1,0 +1,22 @@
+uuid: 40c36ad6-175a-5763-9a4c-598e7a291729
+slug: add-north-pla-wood-nordic-birch
+brand:
+  slug: addnorth
+name: PLA Wood Nordic Birch
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://addnorth.com/product/PLA%20Wood/PLA%20Wood%20-%201.75mm%20-%201000g%20-%20Nordic%20Birch
+primary_color:
+  color_rgba: '#e8e1d1ff'
+tags:
+  - contains_wood
+  - industrially_compostable
+properties:
+  min_print_temperature: 200
+  max_print_temperature: 230
+  min_bed_temperature: 0
+  max_bed_temperature: 60
+photos:
+  - url: /tmp/assets/add-north-pla-wood-nordic-birch-0-8e5b3886.png
+    type: unspecified

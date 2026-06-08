@@ -1,0 +1,22 @@
+uuid: 7a28581d-f46f-5fcf-85b4-aa348e78b703
+slug: add-north-x-pla-power-tool-blue
+brand:
+  slug: addnorth
+name: X-PLA Power Tool Blue
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://addnorth.com/product/X-PLA/X-PLA%20-%201.75mm%20-%201000g%20-%20Power%20Tool%20Blue
+primary_color:
+  color_rgba: '#00b4bcff'
+tags:
+  - industrially_compostable
+properties:
+  density: 1.25
+  min_print_temperature: 180
+  max_print_temperature: 220
+  min_bed_temperature: 0
+  max_bed_temperature: 70
+photos:
+  - url: /tmp/assets/add-north-x-pla-power-tool-blue-0-164b7465.png
+    type: unspecified

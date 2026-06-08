@@ -1,0 +1,22 @@
+uuid: 2cd90a78-d701-5420-bed4-e79b92d69840
+slug: add-north-pla-wood-light-oak
+brand:
+  slug: addnorth
+name: PLA Wood Light Oak
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://addnorth.com/product/PLA%20Wood/PLA%20Wood%20-%201.75mm%20-%201000g%20-%20Light%20Oak
+primary_color:
+  color_rgba: '#d4b6a3ff'
+tags:
+  - contains_wood
+  - industrially_compostable
+properties:
+  min_print_temperature: 200
+  max_print_temperature: 230
+  min_bed_temperature: 0
+  max_bed_temperature: 60
+photos:
+  - url: /tmp/assets/add-north-pla-wood-light-oak-0-bf5a2775.png
+    type: unspecified

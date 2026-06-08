@@ -1,0 +1,18 @@
+uuid: 246bbd18-0086-5900-93fe-c1414faecc57
+slug: add-north-x-pla-high-speed-white
+brand:
+  slug: addnorth
+name: X-PLA High Speed White
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://addnorth.com/product/X-PLA%20High%20Speed/X-PLA%20High%20Speed%20-%201.75mm%20-%20750g%20-%20White
+primary_color:
+  color_rgba: '#ffffffff'
+tags:
+  - high_speed
+  - industrially_compostable
+properties: {}
+photos:
+  - url: /tmp/assets/add-north-x-pla-high-speed-white-0-5b991124.png
+    type: unspecified

@@ -1,0 +1,22 @@
+uuid: 74ae649b-fb6d-54a0-b180-14a6f03d9515
+slug: add-north-x-pla-red
+brand:
+  slug: addnorth
+name: X-PLA Red
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://addnorth.com/product/X-PLA/X-PLA%20-%201.75mm%20-%201000g%20-%20Red
+primary_color:
+  color_rgba: '#e72f1dff'
+tags:
+  - industrially_compostable
+properties:
+  density: 1.25
+  min_print_temperature: 180
+  max_print_temperature: 220
+  min_bed_temperature: 0
+  max_bed_temperature: 70
+photos:
+  - url: /tmp/assets/add-north-x-pla-red-0-90920bf8.png
+    type: unspecified

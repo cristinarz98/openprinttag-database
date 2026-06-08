@@ -1,0 +1,17 @@
+uuid: aaca0325-015f-5bfe-904a-4c78983d561c
+slug: add-north-pla-economy-white
+brand:
+  slug: addnorth
+name: PLA Economy White
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://addnorth.com/product/PLA%20Economy/PLA%20Economy%20-%201.75mm%20-%201000g%20-%20White
+primary_color:
+  color_rgba: '#ffffffff'
+tags:
+  - industrially_compostable
+properties: {}
+photos:
+  - url: /tmp/assets/add-north-pla-economy-white-0-ac8fd0ae.png
+    type: unspecified
