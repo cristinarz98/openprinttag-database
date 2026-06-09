@@ -4,13 +4,19 @@ brand:
   slug: addnorth
 name: Addbor N25 Anthracite
 class: FFF
-abbreviation: ''
+abbreviation: ADDBOR
 primary_color:
   color_rgba: '#26272bff'
 tags:
-- contains_boron_carbide
-- radiation_shielding
+  - contains_boron_carbide
+  - contains_ceramic
+  - radiation_shielding
 photos:
-- url: https://files.openprinttag.org/addnorth/addnorth-addbor-n25-anthracite/21674a7972ca.jpg
-  type: unspecified
-properties: {}
+  - url: https://files.openprinttag.org/addnorth/addnorth-addbor-n25-anthracite/21674a7972ca.jpg
+    type: unspecified
+properties:
+  density: 1.3
+  min_print_temperature: 255
+  max_print_temperature: 275
+  min_bed_temperature: 60
+url: https://addnorth.com/product/Addbor%20N25/Addbor%20N25%20-%201.75mm%20-%201000g%20-%20Anthracite

@@ -4,12 +4,12 @@ brand:
   slug: addnorth
 name: Adura™ FDA
 class: FFF
-abbreviation: Adura™
+abbreviation: ADURA™
 primary_color:
-  color_rgba: '#dfdfd3ff'
+  color_rgba: '#c9d0d4ff'
 tags:
-- transparent
+  - transparent
 photos:
-- url: https://files.openprinttag.org/addnorth/addnorth-adura-fda/15e321b61e60.png
-  type: unspecified
+  - url: https://files.openprinttag.org/addnorth/addnorth-adura-fda/15e321b61e60.png
+    type: unspecified
 properties: {}

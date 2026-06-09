@@ -1,0 +1,14 @@
+uuid: ca0d8941-aea5-5bc9-bdc2-b9be9ca0262b
+slug: addnorth-adura-black
+brand:
+  slug: addnorth
+name: Adura™ Black
+class: FFF
+abbreviation: ADURA™
+url: https://addnorth.com/product/Adura%E2%84%A2/Adura%E2%84%A2%20-%201.75mm%20-%201000g%20-%20Black
+primary_color:
+  color_rgba: '#000000ff'
+properties:
+  min_print_temperature: 245
+  max_print_temperature: 270
+  min_bed_temperature: 50
