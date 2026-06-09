@@ -14,4 +14,5 @@ tags:
 photos:
 - url: https://files.openprinttag.org/addnorth/addnorth-rigid-x-black/03de541feaa5.png
   type: unspecified
-properties: {}
+properties:
+  density: 1.3
