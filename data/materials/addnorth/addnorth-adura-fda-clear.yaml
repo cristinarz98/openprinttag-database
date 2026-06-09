@@ -1,0 +1,19 @@
+uuid: 4a8a4dcd-389a-515d-ba48-f8d271b7b08d
+slug: addnorth-adura-fda-clear
+brand:
+  slug: addnorth
+name: Adura™ FDA Clear
+class: FFF
+abbreviation: ADURA™
+url: https://addnorth.com/product/Adura%E2%84%A2%20FDA/Adura%E2%84%A2%20FDA%20-%201.75mm%20-%201000g%20-%20Clear
+primary_color:
+  color_rgba: '#dfdfd3ff'
+tags:
+  - transparent
+properties:
+  min_print_temperature: 245
+  max_print_temperature: 270
+  min_bed_temperature: 50
+photos:
+  - url: /tmp/assets/addnorth-adura-fda-clear-0-faa45865.png
+    type: unspecified

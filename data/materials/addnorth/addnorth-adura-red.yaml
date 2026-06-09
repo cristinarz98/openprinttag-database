@@ -4,10 +4,14 @@ brand:
   slug: addnorth
 name: Adura™ Red
 class: FFF
-abbreviation: ''
+abbreviation: ADURA™
 primary_color:
   color_rgba: '#e72f1dff'
 photos:
-- url: https://files.openprinttag.org/addnorth/addnorth-adura-red/0954c96892e4.png
-  type: unspecified
-properties: {}
+  - url: https://files.openprinttag.org/addnorth/addnorth-adura-red/0954c96892e4.png
+    type: unspecified
+properties:
+  min_print_temperature: 245
+  max_print_temperature: 270
+  min_bed_temperature: 50
+url: https://addnorth.com/product/Adura%E2%84%A2/Adura%E2%84%A2%20-%201.75mm%20-%201000g%20-%20Red
