@@ -9,10 +9,11 @@ abbreviation: PLA
 primary_color:
   color_rgba: '#7ac0e9ff'
 tags:
-- glow_in_the_dark
-- abrasive
-- industrially_compostable
+  - glow_in_the_dark
+  - abrasive
+  - industrially_compostable
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-pla-glow-blue/7787007b50aa.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-pla-glow-blue/7787007b50aa.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/pla-glow?id=41558487826568

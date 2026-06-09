@@ -9,8 +9,9 @@ abbreviation: PETG
 primary_color:
   color_rgba: '#d6abffff'
 tags:
-- translucent
+  - translucent
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-petg-translucent-purple/834dbbc03ca2.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-petg-translucent-purple/834dbbc03ca2.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/petg-translucent?id=42720027771016

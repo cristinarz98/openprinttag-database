@@ -1,0 +1,15 @@
+uuid: d40d8edb-d203-584a-826b-60e178dfa6d0
+slug: bambulab-petg-basic-dark-brown
+brand:
+  slug: bambulab
+name: PETG Basic Dark Brown
+class: FFF
+type: PETG
+abbreviation: PETG
+url: https://eu.store.bambulab.com/products/petg-basic?id=703100873995440212
+primary_color:
+  color_rgba: '#4f2c1dff'
+properties: {}
+photos:
+  - url: /tmp/assets/bambulab-petg-basic-dark-brown-0-b25bcb11.jpg
+    type: unspecified

@@ -7,10 +7,11 @@ class: FFF
 type: PLA
 abbreviation: PLA
 primary_color:
-  color_rgba: '#5b6579ff'
+  color_rgba: '#516580ff'
 tags:
-- industrially_compostable
+  - industrially_compostable
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-pla-basic-blue-grey/3d7afbe66f27.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-pla-basic-blue-grey/3d7afbe66f27.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/pla-basic-filament?id=40475106869384

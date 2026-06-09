@@ -9,10 +9,12 @@ abbreviation: PLA
 primary_color:
   color_rgba: '#983b4eff'
 tags:
-- contains_carbon_fiber
-- abrasive
-- industrially_compostable
+  - contains_carbon_fiber
+  - abrasive
+  - contains_carbon
+  - industrially_compostable
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-pla-cf-burgundy-red/a43dc047f7b5.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-pla-cf-burgundy-red/a43dc047f7b5.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/pla-cf?p=W3sicHJvcGVydHlLZXkiOiJDb2xvciIsInByb3BlcnR5VmFsdWUiOiJCdXJndW5keSBSZWQgKDE0MjAwKSJ9LHsicHJvcGVydHlLZXkiOiJUeXBlIiwicHJvcGVydHlWYWx1ZSI6IiJ9LHsicHJvcGVydHlLZXkiOiJTaXplIiwicHJvcGVydHlWYWx1ZSI6IjEga2cifV0%3D

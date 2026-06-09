@@ -9,9 +9,10 @@ abbreviation: PLA
 primary_color:
   color_rgba: '#8e8677ff'
 tags:
-- imitates_metal
-- industrially_compostable
+  - imitates_metal
+  - industrially_compostable
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-pla-metal-iridium-gold-metallic/b71ae359e324.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-pla-metal-iridium-gold-metallic/b71ae359e324.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/pla-metal?id=41002951737480

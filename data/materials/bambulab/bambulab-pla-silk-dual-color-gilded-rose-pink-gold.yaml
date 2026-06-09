@@ -7,13 +7,14 @@ class: FFF
 type: PLA
 abbreviation: PLA
 secondary_colors:
-- color_rgba: '#e3b145ff'
-- color_rgba: '#d55d8cff'
+  - color_rgba: '#e3b145ff'
+  - color_rgba: '#d55d8cff'
 tags:
-- silk
-- industrially_compostable
-- coextruded
+  - silk
+  - coextruded
+  - industrially_compostable
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-pla-silk-dual-color-gilded-rose-pink-gold/1594395c277f.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-pla-silk-dual-color-gilded-rose-pink-gold/1594395c277f.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/pla-silk-dual-color?id=41629533307016

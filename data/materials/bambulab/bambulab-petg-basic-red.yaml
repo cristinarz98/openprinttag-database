@@ -1,0 +1,15 @@
+uuid: 40102c0b-1c0a-5fa0-b6b2-4a305d4afe0d
+slug: bambulab-petg-basic-red
+brand:
+  slug: bambulab
+name: PETG Basic Red
+class: FFF
+type: PETG
+abbreviation: PETG
+url: https://eu.store.bambulab.com/products/petg-basic?id=703100873995440176
+primary_color:
+  color_rgba: '#cd001aff'
+properties: {}
+photos:
+  - url: /tmp/assets/bambulab-petg-basic-red-0-06d33df0.jpg
+    type: unspecified

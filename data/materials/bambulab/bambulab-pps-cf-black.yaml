@@ -9,9 +9,12 @@ abbreviation: PPS
 primary_color:
   color_rgba: '#000000ff'
 tags:
-- contains_carbon_fiber
-- abrasive
+  - contains_carbon_fiber
+  - abrasive
+  - contains_carbon
+  - filtration_recommended
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-pps-cf-black/2e8ed72f60b2.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-pps-cf-black/2e8ed72f60b2.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/pps-cf?id=42857957884040

@@ -9,9 +9,10 @@ abbreviation: PLA
 primary_color:
   color_rgba: '#f8b9a6ff'
 tags:
-- silk
-- industrially_compostable
+  - silk
+  - industrially_compostable
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-pla-silk-pink/1c0aca3d90a6.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-pla-silk-pink/1c0aca3d90a6.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/pla-silk-upgrade?id=43128679694472

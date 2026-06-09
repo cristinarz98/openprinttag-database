@@ -9,9 +9,12 @@ abbreviation: PA6
 primary_color:
   color_rgba: '#55555eff'
 tags:
-- contains_glass_fiber
-- abrasive
+  - contains_glass_fiber
+  - abrasive
+  - contains_glass
+  - filtration_recommended
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-pa6-gf-gray/b7aaf25733be.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-pa6-gf-gray/b7aaf25733be.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/pa6-gf?id=41924135911560

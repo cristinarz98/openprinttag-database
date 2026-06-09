@@ -7,12 +7,13 @@ class: FFF
 type: PLA
 abbreviation: PLA
 secondary_colors:
-- color_rgba: '#06b100ff'
-- color_rgba: '#9aee6cff'
+  - color_rgba: '#9aee6cff'
+  - color_rgba: '#06b100ff'
 tags:
-- industrially_compostable
-- gradual_color_change
+  - gradual_color_change
+  - industrially_compostable
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-pla-basic-gradient-mint-lime/5a401744489a.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-pla-basic-gradient-mint-lime/5a401744489a.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/pla-basic-gradient?id=43158301245576

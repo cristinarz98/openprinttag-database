@@ -10,5 +10,7 @@ url: https://eu.store.bambulab.com/products/tpu-85a-tpu-90a?id=54085774442844
 primary_color:
   color_rgba: '#c2efe8ff'
 properties:
-  density: 1.18
-  hardness_shore_a: 85
+  hardness_shore_a: 85.0
+photos:
+  - url: /tmp/assets/bambulab-tpu-85a-light-cyan-0-f058236f.png
+    type: unspecified

@@ -9,9 +9,10 @@ abbreviation: PLA
 primary_color:
   color_rgba: '#55331aff'
 tags:
-- glitter
-- industrially_compostable
+  - glitter
+  - industrially_compostable
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-pla-galaxy-brown/8fd2ea8a4959.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-pla-galaxy-brown/8fd2ea8a4959.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/pla-galaxy?id=41834260037768

@@ -10,6 +10,9 @@ url: https://eu.store.bambulab.com/products/pla-translucent?id=54407222985052
 primary_color:
   color_rgba: '#7ce8b1ff'
 tags:
-- translucent
-- industrially_compostable
+  - translucent
+  - industrially_compostable
 properties: {}
+photos:
+  - url: /tmp/assets/bambulab-pla-translucent-light-jade-0-6401df89.png
+    type: unspecified

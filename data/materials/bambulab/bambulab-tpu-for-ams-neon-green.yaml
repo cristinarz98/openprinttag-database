@@ -9,9 +9,10 @@ abbreviation: TPU
 primary_color:
   color_rgba: '#9aee6cff'
 tags:
-- neon
+  - neon
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-tpu-for-ams-neon-green/9c0ace0f695d.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-tpu-for-ams-neon-green/9c0ace0f695d.png
+    type: unspecified
 properties:
-  hardness_shore_d: 68
+  hardness_shore_d: 68.0
+url: https://us.store.bambulab.com/products/tpu-for-ams?id=43059884687496

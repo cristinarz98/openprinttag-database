@@ -10,7 +10,9 @@ url: https://eu.store.bambulab.com/products/tpu-85a-tpu-90a?id=61502615840913818
 primary_color:
   color_rgba: '#fa8423ff'
 tags:
-- neon
+  - neon
 properties:
-  density: 1.18
-  hardness_shore_a: 85
+  hardness_shore_a: 85.0
+photos:
+  - url: /tmp/assets/bambulab-tpu-85a-neon-orange-0-ec5e17f4.png
+    type: unspecified

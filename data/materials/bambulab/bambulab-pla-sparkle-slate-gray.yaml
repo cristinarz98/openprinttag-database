@@ -9,9 +9,10 @@ abbreviation: PLA
 primary_color:
   color_rgba: '#6f727eff'
 tags:
-- glitter
-- industrially_compostable
+  - glitter
+  - industrially_compostable
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-pla-sparkle-slate-gray/3e5cde79eba2.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-pla-sparkle-slate-gray/3e5cde79eba2.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/pla-sparkle?id=41158137544840

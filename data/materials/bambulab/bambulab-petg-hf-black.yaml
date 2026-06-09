@@ -9,8 +9,9 @@ abbreviation: PETG
 primary_color:
   color_rgba: '#000000ff'
 tags:
-- high_speed
+  - high_speed
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-petg-hf-black/42c5f539a37b.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-petg-hf-black/42c5f539a37b.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/petg-hf?id=42735939682440

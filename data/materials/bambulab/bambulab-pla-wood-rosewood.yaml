@@ -9,10 +9,11 @@ abbreviation: PLA
 primary_color:
   color_rgba: '#68453bff'
 tags:
-- imitates_wood
-- matte
-- industrially_compostable
+  - matte
+  - imitates_wood
+  - industrially_compostable
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-pla-wood-rosewood/610d88da2000.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-pla-wood-rosewood/610d88da2000.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/pla-wood?id=43075831988360

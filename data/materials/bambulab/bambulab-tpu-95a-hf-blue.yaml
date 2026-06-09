@@ -9,9 +9,10 @@ abbreviation: TPU
 primary_color:
   color_rgba: '#0099e6ff'
 tags:
-- high_speed
+  - high_speed
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-tpu-95a-hf-blue/a8582192fd24.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-tpu-95a-hf-blue/a8582192fd24.png
+    type: unspecified
 properties:
-  hardness_shore_a: 95
+  hardness_shore_a: 95.0
+url: https://us.store.bambulab.com/products/tpu-95a-hf?id=41469410607240

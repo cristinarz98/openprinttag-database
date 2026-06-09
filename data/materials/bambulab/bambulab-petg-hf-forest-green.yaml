@@ -7,10 +7,11 @@ class: FFF
 type: PETG
 abbreviation: PETG
 primary_color:
-  color_rgba: '#3c5415ff'
+  color_rgba: '#404720ff'
 tags:
-- high_speed
+  - high_speed
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-petg-hf-forest-green/daa62670735b.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-petg-hf-forest-green/daa62670735b.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/petg-hf?id=42881144979592

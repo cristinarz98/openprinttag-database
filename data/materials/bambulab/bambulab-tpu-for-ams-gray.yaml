@@ -9,7 +9,8 @@ abbreviation: TPU
 primary_color:
   color_rgba: '#9fa4a8ff'
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-tpu-for-ams-gray/0a916abfd831.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-tpu-for-ams-gray/0a916abfd831.png
+    type: unspecified
 properties:
-  hardness_shore_d: 68
+  hardness_shore_d: 68.0
+url: https://us.store.bambulab.com/products/tpu-for-ams?id=43059884753032

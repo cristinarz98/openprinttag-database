@@ -10,6 +10,9 @@ url: https://eu.store.bambulab.com/products/tpu-85a-tpu-90a?id=68271460694618932
 primary_color:
   color_rgba: '#7babe1ff'
 tags:
-- translucent
+  - translucent
 properties:
   hardness_shore_a: 90
+photos:
+  - url: /tmp/assets/bambulab-tpu-90a-crystal-blue-0-c6a4af4a.png
+    type: unspecified

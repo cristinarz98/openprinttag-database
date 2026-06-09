@@ -8,10 +8,13 @@ type: PLA
 abbreviation: PLA
 url: https://eu.store.bambulab.com/products/pla-silk-multi-color?id=47489270841692
 secondary_colors:
-- color_rgba: '#d200a5ff'
-- color_rgba: '#4921c1ff'
+  - color_rgba: '#a000caff'
+  - color_rgba: '#4921c1ff'
 tags:
-- silk
-- coextruded
-- industrially_compostable
+  - silk
+  - coextruded
+  - industrially_compostable
 properties: {}
+photos:
+  - url: /tmp/assets/bambulab-pla-silk-multi-color-neon-city-0-9d282fa4.png
+    type: unspecified

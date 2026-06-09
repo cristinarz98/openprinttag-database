@@ -9,8 +9,9 @@ abbreviation: ABS
 primary_color:
   color_rgba: '#122c4dff'
 tags:
-- filtration_recommended
+  - filtration_recommended
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-abs-navy-blue/eb790ec6e795.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-abs-navy-blue/eb790ec6e795.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/abs-filament?id=42720052707464

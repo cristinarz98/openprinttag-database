@@ -1,0 +1,15 @@
+uuid: b93c32ae-2a16-5ae3-b21c-14f144448eb1
+slug: bambulab-support-for-pla-petg-black
+brand:
+  slug: bambulab
+name: Support for PLA/PETG Black
+class: FFF
+abbreviation: SUPPORT
+primary_color:
+  color_rgba: '#000000ff'
+tags:
+  - translucent
+properties: {}
+photos:
+  - url: /tmp/assets/bambulab-support-for-pla-petg-black-0-4d823b6e.png
+    type: unspecified

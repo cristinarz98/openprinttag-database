@@ -9,8 +9,10 @@ abbreviation: ASA
 primary_color:
   color_rgba: '#f0ebe5ff'
 tags:
-- foaming
+  - foaming
+  - filtration_recommended
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-asa-aero-white/733448c74778.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-asa-aero-white/733448c74778.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/asa-aero?id=42102807494792

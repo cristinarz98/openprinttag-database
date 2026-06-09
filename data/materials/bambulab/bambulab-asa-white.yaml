@@ -9,6 +9,9 @@ abbreviation: ASA
 primary_color:
   color_rgba: '#e2dedbff'
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-asa-white/0ae6a71848e3.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-asa-white/0ae6a71848e3.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/asa-filament?id=41227780849800
+tags:
+  - filtration_recommended

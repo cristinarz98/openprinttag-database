@@ -7,13 +7,14 @@ class: FFF
 type: PLA
 abbreviation: PLA
 secondary_colors:
-- color_rgba: '#0e21aeff'
-- color_rgba: '#c80181ff'
+  - color_rgba: '#0e21aeff'
+  - color_rgba: '#c80181ff'
 tags:
-- silk
-- industrially_compostable
-- coextruded
+  - silk
+  - coextruded
+  - industrially_compostable
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-pla-silk-dual-color-neon-city-blue-magenta/e9349c8f47a7.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-pla-silk-dual-color-neon-city-blue-magenta/e9349c8f47a7.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/pla-silk-dual-color?id=41629533372552

@@ -9,10 +9,13 @@ abbreviation: ASA
 primary_color:
   color_rgba: '#000000ff'
 tags:
-- matte
-- contains_carbon_fiber
-- abrasive
+  - matte
+  - contains_carbon_fiber
+  - abrasive
+  - contains_carbon
+  - filtration_recommended
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-asa-cf-black/bb116d607525.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-asa-cf-black/bb116d607525.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/asa-cf?id=42935777525896

@@ -8,8 +8,11 @@ type: PLA
 abbreviation: PLA
 url: https://eu.store.bambulab.com/products/pla-translucent?id=54345716629852
 primary_color:
-  color_rgba: '#cc52cfff'
+  color_rgba: '#eb0075ff'
 tags:
-- translucent
-- industrially_compostable
+  - translucent
+  - industrially_compostable
 properties: {}
+photos:
+  - url: /tmp/assets/bambulab-pla-translucent-purple-0-f13f3958.png
+    type: unspecified

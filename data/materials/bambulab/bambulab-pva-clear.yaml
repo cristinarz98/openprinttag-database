@@ -9,9 +9,10 @@ abbreviation: PVA
 primary_color:
   color_rgba: '#efe8d8ff'
 tags:
-- water_soluble
-- transparent
+  - water_soluble
+  - transparent
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-pva-clear/c2abbf50ffb1.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-pva-clear/c2abbf50ffb1.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/pva?id=41880801542280

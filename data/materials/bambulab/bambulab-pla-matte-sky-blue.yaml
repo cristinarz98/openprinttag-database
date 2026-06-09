@@ -7,11 +7,12 @@ class: FFF
 type: PLA
 abbreviation: PLA
 primary_color:
-  color_rgba: '#abd5f3ff'
+  color_rgba: '#5feff9ff'
 tags:
-- matte
-- industrially_compostable
+  - matte
+  - industrially_compostable
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-pla-matte-sky-blue/2d2a5a2783b9.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-pla-matte-sky-blue/2d2a5a2783b9.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/pla-matte?id=43292384002184

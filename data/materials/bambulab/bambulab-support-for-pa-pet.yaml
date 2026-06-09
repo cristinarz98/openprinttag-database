@@ -1,0 +1,13 @@
+uuid: cc1fb897-f6cc-574d-9f94-f3f91cfe137a
+slug: bambulab-support-for-pa-pet
+brand:
+  slug: bambulab
+name: Support for PA/PET
+class: FFF
+abbreviation: SUPPORT
+primary_color:
+  color_rgba: '#91c500ff'
+properties: {}
+photos:
+  - url: /tmp/assets/bambulab-support-for-pa-pet-0-ae5548cf.png
+    type: unspecified

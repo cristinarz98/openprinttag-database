@@ -8,12 +8,15 @@ type: PLA
 abbreviation: PLA
 url: https://eu.store.bambulab.com/products/pla-silk-multi-color?id=601314264425144324
 secondary_colors:
-- color_rgba: '#e65a9dff'
-- color_rgba: '#9d00b1ff'
-- color_rgba: '#00a594ff'
-- color_rgba: '#e39951ff'
+  - color_rgba: '#e39951ff'
+  - color_rgba: '#9d00b1ff'
+  - color_rgba: '#00a594ff'
+  - color_rgba: '#e65a9dff'
 tags:
-- silk
-- gradual_color_change
-- industrially_compostable
+  - silk
+  - gradual_color_change
+  - industrially_compostable
 properties: {}
+photos:
+  - url: /tmp/assets/bambulab-pla-silk-multi-color-dawn-radiance-0-f00fc0ef.png
+    type: unspecified

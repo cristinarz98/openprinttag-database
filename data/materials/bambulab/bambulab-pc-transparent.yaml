@@ -9,8 +9,9 @@ abbreviation: PC
 primary_color:
   color_rgba: '#e4e7e5ff'
 tags:
-- transparent
+  - transparent
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-pc-transparent/b8bb8a6a385d.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-pc-transparent/b8bb8a6a385d.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/pc-filament?id=41135409496200

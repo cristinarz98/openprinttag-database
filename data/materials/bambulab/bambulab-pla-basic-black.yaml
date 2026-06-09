@@ -9,8 +9,9 @@ abbreviation: PLA
 primary_color:
   color_rgba: '#000000ff'
 tags:
-- industrially_compostable
+  - industrially_compostable
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-pla-basic-black/26d91a9dd6dd.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-pla-basic-black/26d91a9dd6dd.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/pla-basic-filament?id=40988815556744

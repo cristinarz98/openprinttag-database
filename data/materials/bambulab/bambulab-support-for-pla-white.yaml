@@ -1,0 +1,14 @@
+uuid: 333bb46e-49f2-5c29-b946-cfd7c9e49beb
+slug: bambulab-support-for-pla-white
+brand:
+  slug: bambulab
+name: Support for PLA White
+class: FFF
+abbreviation: SUPPORT
+url: https://eu.store.bambulab.com/products/support-for-pla-new?id=54200625725788
+primary_color:
+  color_rgba: '#ffffffff'
+properties: {}
+photos:
+  - url: /tmp/assets/bambulab-support-for-pla-white-0-a735c1ca.jpg
+    type: unspecified

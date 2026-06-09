@@ -9,9 +9,11 @@ abbreviation: PETG
 primary_color:
   color_rgba: '#02776fff'
 tags:
-- contains_carbon_fiber
-- abrasive
+  - contains_carbon_fiber
+  - abrasive
+  - contains_carbon
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-petg-cf-malachite-green/d3ca161011c1.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-petg-cf-malachite-green/d3ca161011c1.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/petg-cf?id=41230658044040

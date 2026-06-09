@@ -8,8 +8,11 @@ type: TPU
 abbreviation: TPU
 url: https://eu.store.bambulab.com/products/tpu-85a-tpu-90a?id=682714606946189318
 primary_color:
-  color_rgba: '#e400beff'
+  color_rgba: '#cd00d7ff'
 tags:
-- translucent
+  - translucent
 properties:
   hardness_shore_a: 90
+photos:
+  - url: /tmp/assets/bambulab-tpu-90a-grape-jelly-0-97023b32.png
+    type: unspecified

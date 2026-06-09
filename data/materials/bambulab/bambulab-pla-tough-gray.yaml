@@ -10,5 +10,8 @@ url: https://eu.store.bambulab.com/products/pla-tough-upgrade?id=624496486489088
 primary_color:
   color_rgba: '#b2b2b2ff'
 tags:
-- industrially_compostable
+  - industrially_compostable
 properties: {}
+photos:
+  - url: /tmp/assets/bambulab-pla-tough-gray-0-8c28faa5.png
+    type: unspecified

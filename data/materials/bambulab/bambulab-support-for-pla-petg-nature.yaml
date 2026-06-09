@@ -1,0 +1,15 @@
+uuid: 69894ab0-16a6-5835-a812-a0a21f13130a
+slug: bambulab-support-for-pla-petg-nature
+brand:
+  slug: bambulab
+name: Support for PLA/PETG Nature
+class: FFF
+abbreviation: SUPPORT
+primary_color:
+  color_rgba: '#e9dcbbff'
+tags:
+  - translucent
+properties: {}
+photos:
+  - url: /tmp/assets/bambulab-support-for-pla-petg-nature-0-4be9fb2b.png
+    type: unspecified

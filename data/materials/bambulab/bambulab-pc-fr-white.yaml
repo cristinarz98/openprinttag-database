@@ -9,8 +9,9 @@ abbreviation: PC
 primary_color:
   color_rgba: '#f5f5f5ff'
 tags:
-- self_extinguishing
+  - self_extinguishing
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-pc-fr-white/3b28e2b6572d.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-pc-fr-white/3b28e2b6572d.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/pc-fr?id=43160587993224

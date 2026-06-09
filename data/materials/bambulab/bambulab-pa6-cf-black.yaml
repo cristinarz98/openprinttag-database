@@ -9,9 +9,12 @@ abbreviation: PA6
 primary_color:
   color_rgba: '#000000ff'
 tags:
-- contains_carbon_fiber
-- abrasive
+  - contains_carbon_fiber
+  - abrasive
+  - contains_carbon
+  - filtration_recommended
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-pa6-cf-black/cac10a548109.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-pa6-cf-black/cac10a548109.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/pa6-cf?id=41270316630152

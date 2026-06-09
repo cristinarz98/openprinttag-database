@@ -11,3 +11,6 @@ primary_color:
   color_rgba: '#bbff84ff'
 properties:
   hardness_shore_a: 85
+photos:
+  - url: /tmp/assets/bambulab-tpu-85a-lime-green-0-ef1a9a0f.png
+    type: unspecified

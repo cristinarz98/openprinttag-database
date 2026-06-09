@@ -7,15 +7,16 @@ class: FFF
 type: PLA
 abbreviation: PLA
 primary_color:
-  color_rgba: '#fc8397ff'
+  color_rgba: '#f5b797ff'
 secondary_colors:
-- color_rgba: '#f5b797ff'
+  - color_rgba: '#f5b797ff'
 tags:
-- glow_in_the_dark
-- abrasive
-- industrially_compostable
-- illuminescent_color_change
+  - glow_in_the_dark
+  - abrasive
+  - illuminescent_color_change
+  - industrially_compostable
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-pla-glow-pink/60f3cf922ec0.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-pla-glow-pink/60f3cf922ec0.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/pla-glow?id=41558487892104

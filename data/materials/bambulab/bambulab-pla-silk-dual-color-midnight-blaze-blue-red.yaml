@@ -7,13 +7,14 @@ class: FFF
 type: PLA
 abbreviation: PLA
 secondary_colors:
-- color_rgba: '#0e21aeff'
-- color_rgba: '#98282fff'
+  - color_rgba: '#98282fff'
+  - color_rgba: '#0e21aeff'
 tags:
-- silk
-- industrially_compostable
-- coextruded
+  - silk
+  - coextruded
+  - industrially_compostable
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-pla-silk-dual-color-midnight-blaze-blue-red/d13b62fff2e8.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-pla-silk-dual-color-midnight-blaze-blue-red/d13b62fff2e8.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/pla-silk-dual-color?id=41629533339784

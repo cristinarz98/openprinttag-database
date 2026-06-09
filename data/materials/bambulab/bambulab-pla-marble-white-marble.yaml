@@ -9,9 +9,10 @@ abbreviation: PLA
 primary_color:
   color_rgba: '#efefefff'
 tags:
-- imitates_marble
-- industrially_compostable
+  - imitates_marble
+  - industrially_compostable
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-pla-marble-white-marble/578c7d0963d0.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-pla-marble-white-marble/578c7d0963d0.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/pla-marble?id=41003162992776

@@ -7,13 +7,14 @@ class: FFF
 type: PLA
 abbreviation: PLA
 secondary_colors:
-- color_rgba: '#8b3a3aff'
-- color_rgba: '#000000ff'
+  - color_rgba: '#000000ff'
+  - color_rgba: '#8b3a3aff'
 tags:
-- silk
-- industrially_compostable
-- coextruded
+  - silk
+  - coextruded
+  - industrially_compostable
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-pla-silk-dual-color-velvet-eclipse-black-red/69ce19d5a9ba.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-pla-silk-dual-color-velvet-eclipse-black-red/69ce19d5a9ba.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/pla-silk-dual-color?id=43097174704264

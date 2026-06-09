@@ -8,10 +8,12 @@ type: TPU
 abbreviation: TPU
 url: https://eu.store.bambulab.com/products/tpu-85a-tpu-90a?id=54085774508380
 secondary_colors:
-- color_rgba: '#ffffffff'
-- color_rgba: '#40b6e4ff'
+  - color_rgba: '#40b6e4ff'
+  - color_rgba: '#ffffffff'
 tags:
-- gradual_color_change
+  - gradual_color_change
 properties:
-  density: 1.24
-  hardness_shore_a: 90
+  hardness_shore_a: 90.0
+photos:
+  - url: /tmp/assets/bambulab-tpu-90a-frozen-0-e10c3243.png
+    type: unspecified

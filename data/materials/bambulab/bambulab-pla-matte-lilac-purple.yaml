@@ -9,9 +9,10 @@ abbreviation: PLA
 primary_color:
   color_rgba: '#ae96d4ff'
 tags:
-- matte
-- industrially_compostable
+  - matte
+  - industrially_compostable
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-pla-matte-lilac-purple/e970f20d8157.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-pla-matte-lilac-purple/e970f20d8157.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/pla-matte?id=40489682108552

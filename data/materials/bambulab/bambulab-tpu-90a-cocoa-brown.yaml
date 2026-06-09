@@ -11,3 +11,6 @@ primary_color:
   color_rgba: '#5e4838ff'
 properties:
   hardness_shore_a: 90
+photos:
+  - url: /tmp/assets/bambulab-tpu-90a-cocoa-brown-0-e7bf0db0.png
+    type: unspecified

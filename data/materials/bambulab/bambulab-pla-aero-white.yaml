@@ -9,10 +9,11 @@ abbreviation: PLA
 primary_color:
   color_rgba: '#ffffffff'
 tags:
-- matte
-- industrially_compostable
-- foaming
+  - foaming
+  - matte
+  - industrially_compostable
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-pla-aero-white/5ad2b891c87b.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-pla-aero-white/5ad2b891c87b.png
+    type: unspecified
 properties: {}
+url: https://us.store.bambulab.com/products/pla-aero?id=41238296625288
