@@ -5,7 +5,8 @@ brand:
 name: PP Glass Fiber Natural
 class: FFF
 type: PP
-abbreviation: PP
+abbreviation: PPGF
+url: https://www.prusa3d.com/product/prusament-pp-glass-fiber-natural-850g/
 primary_color:
   color_rgba: '#ffffffff'
 tags:
