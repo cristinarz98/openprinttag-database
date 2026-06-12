@@ -1,0 +1,22 @@
+uuid: 0eaf2e5f-af51-5928-a7c7-e188411dddda
+slug: printonion-pla-viridis-green
+brand:
+  slug: printonion
+name: PLA Viridis Green
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://printonion.com/en/filament/pla/classic/viridis-green-1.75mm-1000g
+primary_color:
+  color_rgba: '#88f231ff'
+tags:
+  - industrially_compostable
+properties:
+  density: 1.25
+  min_print_temperature: 190
+  max_print_temperature: 220
+  min_bed_temperature: 40
+  max_bed_temperature: 65
+photos:
+  - url: /tmp/assets/printonion-pla-viridis-green-0-66a4eac2.jpg
+    type: unspecified

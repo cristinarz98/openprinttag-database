@@ -1,0 +1,22 @@
+uuid: 697b87db-28ba-57f1-a813-4b1b65c91958
+slug: printonion-pla-pink
+brand:
+  slug: printonion
+name: PLA Pink
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://printonion.com/en/filament/pla/classic/pink-1.75mm-1000g
+primary_color:
+  color_rgba: '#ff9ee0ff'
+tags:
+  - industrially_compostable
+properties:
+  density: 1.25
+  min_print_temperature: 190
+  max_print_temperature: 220
+  min_bed_temperature: 40
+  max_bed_temperature: 65
+photos:
+  - url: /tmp/assets/printonion-pla-pink-0-aa7092d6.jpg
+    type: unspecified

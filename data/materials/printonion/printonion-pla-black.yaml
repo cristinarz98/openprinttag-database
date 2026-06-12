@@ -1,0 +1,22 @@
+uuid: 03f2ee89-60e2-57e5-91a0-ee101d6aab2c
+slug: printonion-pla-black
+brand:
+  slug: printonion
+name: PLA Black
+class: FFF
+type: PLA
+abbreviation: PLA
+url: https://printonion.com/en/filament/pla/classic/black-1.75mm-1000g
+primary_color:
+  color_rgba: '#141414ff'
+tags:
+  - industrially_compostable
+properties:
+  density: 1.25
+  min_print_temperature: 190
+  max_print_temperature: 220
+  min_bed_temperature: 40
+  max_bed_temperature: 60
+photos:
+  - url: /tmp/assets/printonion-pla-black-0-f4b4fad4.jpg
+    type: unspecified
