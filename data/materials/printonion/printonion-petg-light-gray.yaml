@@ -1,0 +1,20 @@
+uuid: 81af3e5c-5438-5f29-aca5-7f6b23ed0003
+slug: printonion-petg-light-gray
+brand:
+  slug: printonion
+name: PETG Light Gray
+class: FFF
+type: PETG
+abbreviation: PETG
+url: https://printonion.com/en/filament/petg/classic/light-gray-1.75mm-1000g
+primary_color:
+  color_rgba: '#a6a6a6ff'
+properties:
+  density: 1.23
+  min_print_temperature: 220
+  max_print_temperature: 255
+  min_bed_temperature: 50
+  max_bed_temperature: 70
+photos:
+  - url: /tmp/assets/printonion-petg-light-gray-0-e7dc9289.jpg
+    type: unspecified
