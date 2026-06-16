@@ -6,7 +6,6 @@ name: PLA Light Gray
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://printonion.com/en/filament/pla/classic/light-gray-1.75mm-1000g
 primary_color:
   color_rgba: '#a6a6a6ff'
 tags:

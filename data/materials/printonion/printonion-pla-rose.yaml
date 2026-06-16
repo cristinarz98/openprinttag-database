@@ -6,7 +6,6 @@ name: PLA Rose
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://printonion.com/en/filament/pla/classic/rose-1.75mm-1000g
 primary_color:
   color_rgba: '#c72f73ff'
 tags:

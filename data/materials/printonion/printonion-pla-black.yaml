@@ -6,7 +6,6 @@ name: PLA Black
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://printonion.com/en/filament/pla/classic/black-1.75mm-1000g
 primary_color:
   color_rgba: '#141414ff'
 tags:

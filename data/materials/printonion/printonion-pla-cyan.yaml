@@ -6,7 +6,6 @@ name: PLA Cyan
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://printonion.com/en/filament/pla/classic/cyan-1.75mm-1000g
 primary_color:
   color_rgba: '#05a6c7ff'
 tags:

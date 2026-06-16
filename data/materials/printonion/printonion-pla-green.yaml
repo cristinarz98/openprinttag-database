@@ -6,7 +6,6 @@ name: PLA Green
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://printonion.com/en/filament/pla/classic/green-1.75mm-1000g
 primary_color:
   color_rgba: '#238b2aff'
 tags:

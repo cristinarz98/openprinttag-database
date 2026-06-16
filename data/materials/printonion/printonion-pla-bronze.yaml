@@ -6,7 +6,6 @@ name: PLA Bronze
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://printonion.com/en/filament/pla/classic/bronze-1.75mm-1000g
 primary_color:
   color_rgba: '#836842ff'
 tags:

@@ -6,7 +6,6 @@ name: PLA Rainbow
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://printonion.com/en/filament/pla/classic/rainbow-1.75mm-1000g
 secondary_colors:
   - color_rgba: '#4f03d7ff'
   - color_rgba: '#ffb031ff'

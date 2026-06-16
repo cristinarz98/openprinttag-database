@@ -6,7 +6,6 @@ name: PLA Coffee
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://printonion.com/en/filament/pla/classic/coffee-1.75mm-1000g
 primary_color:
   color_rgba: '#652e1aff'
 tags:

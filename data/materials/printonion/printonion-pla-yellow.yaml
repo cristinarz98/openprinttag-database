@@ -6,7 +6,6 @@ name: PLA Yellow
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://printonion.com/en/filament/pla/classic/yellow-1.75mm-1000g
 primary_color:
   color_rgba: '#fff838ff'
 tags:

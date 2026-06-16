@@ -6,7 +6,6 @@ name: PLA Red
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://printonion.com/en/filament/pla/classic/red-1.75mm-1000g
 primary_color:
   color_rgba: '#f71818ff'
 tags:
