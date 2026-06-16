@@ -1,19 +1,19 @@
-uuid: f18db834-8fbb-5235-bc0e-294c3645bc12
-slug: amolen-pla-silk-basic-coffee-gold
+uuid: 39faa9f9-49d6-59db-a543-38d6fd75852b
+slug: amolen-pla-silk-basic-mercury-silver
 brand:
   slug: amolen
-name: PLA Silk Basic Coffee Gold
+name: PLA Silk Basic Mercury Silver
 class: FFF
 type: PLA
 abbreviation: PLA
 url: https://www.amolen.com/products/pla-silk-basic
 primary_color:
-  color_rgba: '#b76e34ff'
+  color_rgba: '#c9c1c8ff'
 tags:
 - silk
 - industrially_compostable
 photos:
-- url: https://files.openprinttag.org/amolen/amolen-pla-silk-basic-coffee-gold/4_ecadc9c5-999e-4c12-a07e-46cc43eb4f73.jpg
+- url: https://files.openprinttag.org/amolen/amolen-pla-silk-basic-mercury-silver/PLA_Silk_Basic_Mercury_Silver.jpg
   type: unspecified
 properties:
   density: 1.27
