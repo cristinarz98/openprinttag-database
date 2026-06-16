@@ -6,7 +6,6 @@ name: PETG Light Blue
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://printonion.com/en/filament/petg/classic/light-blue-1.75mm-1000g
 primary_color:
   color_rgba: '#b6f0fbff'
 properties:

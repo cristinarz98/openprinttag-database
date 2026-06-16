@@ -6,7 +6,6 @@ name: PETG Gray
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://printonion.com/en/filament/petg/classic/gray-1.75mm-1000g
 primary_color:
   color_rgba: '#595962ff'
 properties:

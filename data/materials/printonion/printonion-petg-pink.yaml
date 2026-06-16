@@ -6,7 +6,6 @@ name: PETG Pink
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://printonion.com/en/filament/petg/classic/pink-1.75mm-1000g
 primary_color:
   color_rgba: '#ff9ee0ff'
 properties:

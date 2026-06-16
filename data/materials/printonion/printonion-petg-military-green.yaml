@@ -6,7 +6,6 @@ name: PETG Military Green
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://printonion.com/en/filament/petg/classic/military-green-1.75mm-1000g
 primary_color:
   color_rgba: '#355031ff'
 properties:
