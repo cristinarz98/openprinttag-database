@@ -9,10 +9,11 @@ abbreviation: ABS
 primary_color:
   color_rgba: '#fbe200ff'
 tags:
-- contains_glass_fiber
-- abrasive
-- filtration_recommended
+  - contains_glass_fiber
+  - abrasive
+  - contains_glass
+  - filtration_recommended
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-abs-gf-yellow/02b0f4b734bb.png
-  type: unspecified
+  - url: https://files.openprinttag.org/bambulab/bambulab-abs-gf-yellow/02b0f4b734bb.png
+    type: unspecified
 properties: {}
