@@ -21,6 +21,3 @@ properties:
   max_bed_temperature: 75
   min_chamber_temperature: 35
   max_chamber_temperature: 50
-secondary_colors:
-  - color_rgba: '#003287ff'
-  - color_rgba: '#0a2ca5ff'
