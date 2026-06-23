@@ -1,0 +1,21 @@
+uuid: 7b768f69-820b-5e20-8793-7e425e777011
+slug: méxico-makers-pla-silk-plata-925
+brand:
+  slug: mexico-makers
+name: PLA Silk - Plata .925
+class: FFF
+type: PLA
+abbreviation: PLA
+primary_color:
+  color_rgba: '#7b7b7bff'
+tags:
+  - silk
+  - industrially_compostable
+properties:
+  min_print_temperature: 200
+  max_print_temperature: 220
+  min_bed_temperature: 40
+  max_bed_temperature: 60
+photos:
+  - url: /tmp/assets/méxico-makers-pla-silk-plata-925-0-53775f95.jpg
+    type: unspecified

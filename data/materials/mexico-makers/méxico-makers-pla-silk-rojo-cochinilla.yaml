@@ -1,0 +1,21 @@
+uuid: add0fd8d-526d-5576-8028-b5016b15a0d2
+slug: méxico-makers-pla-silk-rojo-cochinilla
+brand:
+  slug: mexico-makers
+name: PLA Silk - Rojo Cochinilla
+class: FFF
+type: PLA
+abbreviation: PLA
+primary_color:
+  color_rgba: '#d60212ff'
+tags:
+  - silk
+  - industrially_compostable
+properties:
+  min_print_temperature: 200
+  max_print_temperature: 220
+  min_bed_temperature: 40
+  max_bed_temperature: 60
+photos:
+  - url: /tmp/assets/méxico-makers-pla-silk-rojo-cochinilla-0-90ae1a68.jpg
+    type: unspecified

@@ -1,0 +1,21 @@
+uuid: ccac2bbd-d1c3-5f5f-b02d-0a6706ef7cd9
+slug: méxico-makers-pla-silk-azul-real
+brand:
+  slug: mexico-makers
+name: PLA Silk - Azul Real
+class: FFF
+type: PLA
+abbreviation: PLA
+primary_color:
+  color_rgba: '#295ad9ff'
+tags:
+  - silk
+  - industrially_compostable
+properties:
+  min_print_temperature: 200
+  max_print_temperature: 220
+  min_bed_temperature: 40
+  max_bed_temperature: 60
+photos:
+  - url: /tmp/assets/méxico-makers-pla-silk-azul-real-0-14c2a798.jpg
+    type: unspecified

@@ -1,0 +1,17 @@
+uuid: 68fd28c6-3ef3-5f1a-bebe-56e66be0bd8d
+slug: méxico-makers-pla-silk-oro-azteca
+brand:
+  slug: mexico-makers
+name: PLA Silk - Oro Azteca
+class: FFF
+type: PLA
+abbreviation: PLA
+primary_color:
+  color_rgba: '#b98e37ff'
+tags:
+  - silk
+  - industrially_compostable
+properties: {}
+photos:
+  - url: /tmp/assets/méxico-makers-pla-silk-oro-azteca-0-e2aaf547.jpg
+    type: unspecified

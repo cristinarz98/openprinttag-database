@@ -1,0 +1,21 @@
+uuid: 580b77b6-ed95-5d95-b8ab-0fffcdb7aee0
+slug: méxico-makers-pla-silk-amarillo-abeja
+brand:
+  slug: mexico-makers
+name: PLA Silk - Amarillo Abeja
+class: FFF
+type: PLA
+abbreviation: PLA
+primary_color:
+  color_rgba: '#e0f261ff'
+tags:
+  - silk
+  - industrially_compostable
+properties:
+  min_print_temperature: 200
+  max_print_temperature: 220
+  min_bed_temperature: 40
+  max_bed_temperature: 60
+photos:
+  - url: /tmp/assets/méxico-makers-pla-silk-amarillo-abeja-0-abc682b9.jpg
+    type: unspecified
