@@ -6,7 +6,6 @@ name: TPU 90A Black
 class: FFF
 type: TPU
 abbreviation: TPU
-url: https://eu.store.bambulab.com/products/tpu-85a-tpu-90a?id=54085774541148
 primary_color:
   color_rgba: '#000000ff'
 properties:

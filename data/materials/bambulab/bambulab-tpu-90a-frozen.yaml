@@ -6,7 +6,6 @@ name: TPU 90A Frozen
 class: FFF
 type: TPU
 abbreviation: TPU
-url: https://eu.store.bambulab.com/products/tpu-85a-tpu-90a?id=54085774508380
 secondary_colors:
   - color_rgba: '#40b6e4ff'
   - color_rgba: '#ffffffff'
