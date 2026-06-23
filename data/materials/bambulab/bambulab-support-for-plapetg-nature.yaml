@@ -4,9 +4,9 @@ brand:
   slug: bambulab
 name: Support for PLA/PETG Nature
 class: FFF
-abbreviation: Support
+abbreviation: SUPPORT
 primary_color:
-  color_rgba: '#6d8166ff'
+  color_rgba: '#c9d0d4ff'
 tags:
   - translucent
 photos:
