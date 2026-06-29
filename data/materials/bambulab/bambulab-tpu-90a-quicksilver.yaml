@@ -1,15 +1,13 @@
-uuid: c794bad7-f3a3-5b7e-bef9-ccd777f65f35
-slug: bambulab-tpu-90a-grape-jelly
+uuid: 9b825df9-4587-55dc-b5e2-e6527431b2f6
+slug: bambulab-tpu-90a-quicksilver
 brand:
   slug: bambulab
-name: TPU 90A Grape Jelly
+name: TPU 90A Quicksilver
 class: FFF
 type: TPU
 abbreviation: TPU
 primary_color:
-  color_rgba: '#d6abffff'
-tags:
-- translucent
+  color_rgba: '#9ea2a2ff'
 properties:
   density: 1.24
   hardness_shore_a: 90.0
@@ -20,5 +18,5 @@ properties:
   min_chamber_temperature: 25
   max_chamber_temperature: 45
 photos:
-- url: https://files.openprinttag.org/bambulab/bambulab-tpu-90a-grape-jelly/bambulab-tpu-90a-grape-jelly-0-97023b32.png
+- url: https://files.openprinttag.org/bambulab/bambulab-tpu-90a-quicksilver/bambulab-tpu-90a-quicksilver-0-0e55182d.jpg
   type: unspecified
