@@ -1,0 +1,8 @@
+uuid: ae226d4c-f76e-5dc5-8cf7-ec5b1ab3abe2
+slug: polymaker-polylite-pla-white-2850um-3kg
+class: FFF
+material:
+  slug: polymaker-polylite-pla-white
+nominal_netto_full_weight: 3000
+filament_diameter: 2850
+gtin: 6938936712480

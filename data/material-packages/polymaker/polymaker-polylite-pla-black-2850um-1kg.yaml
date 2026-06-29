@@ -1,0 +1,9 @@
+uuid: 7f4735fd-4b50-5d4b-9adc-ada052d129ed
+slug: polymaker-polylite-pla-black-2850um-1kg
+class: FFF
+material:
+  slug: polymaker-polylite-pla-black
+nominal_netto_full_weight: 1000
+filament_diameter: 2850
+gtin: 6938936711025
+url: https://us.polymaker.com/products/polylite-pla

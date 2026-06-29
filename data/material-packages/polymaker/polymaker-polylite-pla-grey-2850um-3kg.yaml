@@ -1,0 +1,8 @@
+uuid: bc7948c5-5046-5224-858d-62137ea38a8b
+slug: polymaker-polylite-pla-grey-2850um-3kg
+class: FFF
+material:
+  slug: polymaker-polylite-pla-grey
+nominal_netto_full_weight: 3000
+filament_diameter: 2850
+gtin: 6938936712503
