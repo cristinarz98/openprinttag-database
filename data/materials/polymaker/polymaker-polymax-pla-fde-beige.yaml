@@ -1,18 +1,15 @@
-uuid: ed1d4ddc-00d8-5e9b-aa6f-3ac3d56c89e4
-slug: polymaker-polymax-pla-teal
+uuid: dd3d733b-f092-5238-8092-190e2b7a0389
+slug: polymaker-polymax-pla-fde-beige
 brand:
   slug: polymaker
-name: PolyMax™ PLA Teal
+name: PolyMax™ PLA FDE Beige
 class: FFF
 type: PLA
 abbreviation: PLA
 primary_color:
-  color_rgba: '#4abac2ff'
+  color_rgba: '#90755dff'
 tags:
   - industrially_compostable
-photos:
-  - url: https://files.openprinttag.org/polymaker/polymaker-polymax-pla-teal/97992aab3712.png
-    type: unspecified
 properties:
   min_print_temperature: 190
   max_print_temperature: 230
@@ -20,3 +17,6 @@ properties:
   max_bed_temperature: 60
   drying_temperature: 55
   drying_time: 360
+photos:
+  - url: /tmp/assets/polymaker-polymax-pla-fde-beige-0-066a393d.png
+    type: unspecified
