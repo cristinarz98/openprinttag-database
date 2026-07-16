@@ -9,9 +9,9 @@ abbreviation: ABS
 primary_color:
   color_rgba: '#c3ccd5ff'
 tags:
-- imitates_marble
-- filtration_recommended
+  - imitates_marble
+  - filtration_recommended
 photos:
-- url: https://files.openprinttag.org/filamentpm/filamentpm-abs-marble-dark/a8c3be1af73b.png
-  type: unspecified
+  - url: https://files.openprinttag.org/filamentpm/filamentpm-abs-marble-dark/a8c3be1af73b.png
+    type: unspecified
 properties: {}
