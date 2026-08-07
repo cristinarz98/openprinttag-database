@@ -10,8 +10,9 @@ url: https://spectrumfilaments.com/en/filament/pla-flameguard/
 primary_color:
   color_rgba: '#efefefff'
 tags:
-- silk
-- self_extinguishing
-- industrially_compostable
+  - self_extinguishing
 properties:
   density: 1.22
+photos:
+  - url: /tmp/assets/spectrum-flameguard-pla-polar-white-0-0ff95d78.jpg
+    type: unspecified

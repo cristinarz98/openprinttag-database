@@ -1,0 +1,16 @@
+uuid: 869d44a9-849a-537c-ac4b-fdd8d89fb124
+slug: spectrum-pla-esd-power-tool-turquoise
+brand:
+  slug: spectrum
+name: PLA ESD Power Tool Turquoise
+class: FFF
+type: PLA
+abbreviation: PLA
+primary_color:
+  color_rgba: '#178b9fff'
+tags:
+  - esd_safe
+properties: {}
+photos:
+  - url: /tmp/assets/spectrum-pla-esd-power-tool-turquoise-0-4cf7a33b.jpg
+    type: unspecified
