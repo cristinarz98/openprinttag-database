@@ -6,7 +6,6 @@ name: PLA Chocolate
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.amazon.com/JUSTMAKER-Filament-Cardboard-Printers-Dimensional/dp/B0DSZ69FVZ?ref_=ast_sto_dp&th=1
 primary_color:
   color_rgba: '#452f25ff'
 tags:

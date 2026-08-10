@@ -6,7 +6,6 @@ name: PLA Bois - Co-produced
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://francofil.fr/en/product/filament-pla-bois/
 primary_color:
   color_rgba: '#dc9c43ff'
 tags:

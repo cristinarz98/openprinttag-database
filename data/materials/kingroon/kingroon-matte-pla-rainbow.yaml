@@ -6,7 +6,6 @@ name: Matte PLA Rainbow
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://kingroon.com/products/kingroon-matte-pla?variant=46772533493978
 secondary_colors:
 - color_rgba: '#00e3e2ff'
 - color_rgba: '#8d65c7ff'

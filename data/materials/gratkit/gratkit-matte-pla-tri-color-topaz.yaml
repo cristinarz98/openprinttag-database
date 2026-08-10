@@ -6,7 +6,6 @@ name: Matte PLA Tri-Color Topaz
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://gratkit.com/collections/3d-printing-filament/products/pla-filament
 secondary_colors:
 - color_rgba: '#e4e46dff'
 - color_rgba: '#c075e5ff'

@@ -6,7 +6,6 @@ name: PC-FR Grey
 class: FFF
 type: PC
 abbreviation: PC
-url: https://www.igo3d.com/kimya-pc-fr-filament_1
 primary_color:
   color_rgba: '#c9c6bfff'
 tags:

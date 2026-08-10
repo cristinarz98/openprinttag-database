@@ -6,7 +6,6 @@ name: PLA Green RAL 6000
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://francofil.fr/en/product/filament-pla-vert-ral-6000/
 primary_color:
   color_rgba: '#008059ff'
 tags:

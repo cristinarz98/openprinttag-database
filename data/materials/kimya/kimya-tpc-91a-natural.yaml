@@ -6,7 +6,6 @@ name: TPC-91A Natural
 class: FFF
 type: TPC
 abbreviation: TPC
-url: https://www.igo3d.com/kimya-tpc-91a-filament
 primary_color:
   color_rgba: '#f7f6edff'
 tags:

@@ -6,7 +6,6 @@ name: Detectable PETG M-XR
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://francofil.fr/en/product/petg-m-xr-detectable/
 primary_color:
   color_rgba: '#436176ff'
 properties: {}

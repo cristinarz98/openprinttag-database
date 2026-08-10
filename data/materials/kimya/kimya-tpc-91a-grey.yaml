@@ -6,7 +6,6 @@ name: TPC-91A Grey
 class: FFF
 type: TPC
 abbreviation: TPC
-url: https://www.igo3d.com/kimya-tpc-91a-grey-285mm-750g
 primary_color:
   color_rgba: '#4b4f54ff'
 properties:

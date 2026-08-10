@@ -6,7 +6,6 @@ name: Matte PLA Tri-Color Iris
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://gratkit.com/collections/3d-printing-filament/products/pla-filament
 secondary_colors:
 - color_rgba: '#f600c7ff'
 - color_rgba: '#f8ff8dff'

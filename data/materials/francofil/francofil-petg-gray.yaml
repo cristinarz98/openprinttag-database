@@ -6,7 +6,6 @@ name: PETG Gray
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://francofil.fr/en/product/petg-gris/
 primary_color:
   color_rgba: '#6f727eff'
 properties:

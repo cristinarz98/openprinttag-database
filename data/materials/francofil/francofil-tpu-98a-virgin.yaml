@@ -6,7 +6,6 @@ name: TPU 98A Virgin
 class: FFF
 type: TPU
 abbreviation: TPU
-url: https://francofil.fr/en/product/tpu-98a-vierge/
 primary_color:
   color_rgba: '#dfdfd3ff'
 tags:

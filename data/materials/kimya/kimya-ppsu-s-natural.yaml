@@ -6,7 +6,6 @@ name: PPSU-S Natural
 class: FFF
 type: PPSU
 abbreviation: PPSU
-url: https://www.igo3d.com/kimya-ppsu-s-filament
 primary_color:
   color_rgba: '#c6aa76ff'
 tags:

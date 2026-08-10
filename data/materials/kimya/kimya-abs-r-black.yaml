@@ -6,7 +6,6 @@ name: ABS-R Black
 class: FFF
 type: ABS
 abbreviation: ABS
-url: https://www.igo3d.com/kimya-abs-r-filament_1
 primary_color:
   color_rgba: '#000000ff'
 tags:

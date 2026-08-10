@@ -6,7 +6,6 @@ name: PETG-S Grey
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://www.igo3d.com/kimya-petg-s-filament_26
 primary_color:
   color_rgba: '#575757ff'
 properties: {}

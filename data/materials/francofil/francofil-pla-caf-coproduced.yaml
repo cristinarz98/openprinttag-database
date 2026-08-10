@@ -6,7 +6,6 @@ name: PLA Café - Coproduced
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://francofil.fr/en/product/filament-pla-cafe/
 primary_color:
   color_rgba: '#3e2617ff'
 tags:

@@ -6,7 +6,6 @@ name: ABS-EC
 class: FFF
 type: ABS
 abbreviation: ABS
-url: https://www.machines-3d.com/filament-imprimante-3d-kimya-absec-175mm-500g-noir-xml-367_929_1015-6113.html
 primary_color:
   color_rgba: '#000000ff'
 tags:

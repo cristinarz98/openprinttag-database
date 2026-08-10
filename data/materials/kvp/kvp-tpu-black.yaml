@@ -6,7 +6,6 @@ name: TPU Black
 class: FFF
 type: TPU
 abbreviation: TPU
-url: https://tonerplastics.com/product/tpu-filament-reels/
 primary_color:
   color_rgba: '#000000ff'
 properties:

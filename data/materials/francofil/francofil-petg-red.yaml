@@ -6,7 +6,6 @@ name: PETG Red
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://francofil.fr/en/product/filament-petg-rouge-pour-impression-3d/
 primary_color:
   color_rgba: '#e72f1dff'
 properties:

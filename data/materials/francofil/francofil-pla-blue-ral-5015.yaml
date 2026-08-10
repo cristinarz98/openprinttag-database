@@ -6,7 +6,6 @@ name: PLA Blue RAL 5015
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://francofil.fr/en/product/filament-pla-bleu-ral-5015/
 primary_color:
   color_rgba: '#0078bfff'
 tags:

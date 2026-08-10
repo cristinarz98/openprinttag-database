@@ -6,7 +6,6 @@ name: 'Smoke: Recycled PET-G'
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://www.greengate3d.com/collections/all-filaments/products/smoke-recycled-pet-g-new-translucent-light-black
 primary_color:
   color_rgba: '#79716fff'
 tags:

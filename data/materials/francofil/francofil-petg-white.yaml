@@ -6,7 +6,6 @@ name: PETG White
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://francofil.fr/en/product/petg-blanc/
 primary_color:
   color_rgba: '#f2efe9ff'
 properties:

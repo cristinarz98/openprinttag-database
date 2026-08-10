@@ -6,7 +6,6 @@ name: PLA Copper
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.amazon.com/JUSTMAKER-Filament-Cardboard-Printers-Dimensional/dp/B0DT14DB23?ref_=ast_sto_dp&th=1
 primary_color:
   color_rgba: '#ba9a67ff'
 tags:

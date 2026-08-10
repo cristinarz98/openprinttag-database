@@ -6,7 +6,6 @@ name: Matte PLA Rainbow Eternal Ember
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://gratkit.com/collections/3d-printing-filament/products/pla-filament
 secondary_colors:
 - color_rgba: '#5aeb90ff'
 - color_rgba: '#da8cbfff'

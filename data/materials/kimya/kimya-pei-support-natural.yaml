@@ -6,7 +6,6 @@ name: PEI Support Natural
 class: FFF
 type: PEI
 abbreviation: PEI
-url: https://www.igo3d.com/kimya-pei-support-filament_1
 primary_color:
   color_rgba: '#d9d4c6ff'
 tags:

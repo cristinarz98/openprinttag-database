@@ -6,7 +6,6 @@ name: ABS Voron Red
 class: FFF
 type: ABS
 abbreviation: ABS
-url: https://tonerplastics.com/product/village-plastics-abs-filament-reels/
 primary_color:
   color_rgba: '#d3100cff'
 properties: {}

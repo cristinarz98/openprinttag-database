@@ -5,7 +5,6 @@ brand:
 name: LOCTITE 3D IND249
 class: SLA
 abbreviation: ''
-url: https://www.loctiteam.com/ind249/
 primary_color:
   color_rgba: '#595959ff'
 properties:

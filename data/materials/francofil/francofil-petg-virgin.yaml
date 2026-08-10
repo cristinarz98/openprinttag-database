@@ -6,7 +6,6 @@ name: PETG Virgin
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://francofil.fr/en/product/petg-vierge/
 primary_color:
   color_rgba: '#dfdfd3ff'
 tags:

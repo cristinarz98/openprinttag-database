@@ -6,7 +6,6 @@ name: Tough PLA-HI Yellow
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.igo3d.com/kimya-pla-hi-filament_7
 primary_color:
   color_rgba: '#fcff66ff'
 tags:

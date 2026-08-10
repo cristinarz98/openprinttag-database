@@ -6,7 +6,6 @@ name: TPU 95A Blue
 class: FFF
 type: TPU
 abbreviation: TPU
-url: https://francofil.fr/en/product/filament-tpu-95a-bleu/
 primary_color:
   color_rgba: '#183681ff'
 properties:

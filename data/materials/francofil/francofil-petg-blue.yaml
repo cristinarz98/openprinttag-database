@@ -6,7 +6,6 @@ name: PETG Blue
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://francofil.fr/en/product/petg-bleu/
 primary_color:
   color_rgba: '#183681ff'
 properties:

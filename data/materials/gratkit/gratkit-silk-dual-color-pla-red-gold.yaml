@@ -6,7 +6,6 @@ name: Silk Dual Color PLA Red + Gold
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://gratkit.com/collections/3d-printing-filament/products/gratkit-silk-multi-color-pla-filament-1-75mm-coextrusion-pla-filament-1kg
 secondary_colors:
 - color_rgba: '#fb0046ff'
 - color_rgba: '#ebb83aff'

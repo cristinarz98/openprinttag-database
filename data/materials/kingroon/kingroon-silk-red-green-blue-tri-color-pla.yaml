@@ -6,7 +6,6 @@ name: Silk Red Green Blue tri-color PLA
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://kingroon.com/products/kingroon-silk-multicolor-pla?variant=46772684587226
 secondary_colors:
 - color_rgba: '#c4376dff'
 - color_rgba: '#11784fff'

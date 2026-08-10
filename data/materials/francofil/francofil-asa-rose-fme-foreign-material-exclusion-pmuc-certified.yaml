@@ -6,7 +6,6 @@ name: ASA Rose FME (Foreign Material Exclusion) PMUC-certified
 class: FFF
 type: ASA
 abbreviation: ASA
-url: https://francofil.fr/en/product/filament-asa-rose-fme-impression-3d-francofil/
 primary_color:
   color_rgba: '#e80078ff'
 properties: {}

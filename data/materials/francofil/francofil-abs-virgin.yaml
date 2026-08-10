@@ -6,7 +6,6 @@ name: ABS Virgin
 class: FFF
 type: ABS
 abbreviation: ABS
-url: https://francofil.fr/en/product/filament-abs-vierge/
 primary_color:
   color_rgba: '#efeadfff'
 tags:

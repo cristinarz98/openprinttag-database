@@ -6,7 +6,6 @@ name: TPU Blue
 class: FFF
 type: TPU
 abbreviation: TPU
-url: https://kingroon.com/products/10kg-tpu-3d-printer-filament?variant=46931212796122
 primary_color:
   color_rgba: '#0353baff'
 properties:

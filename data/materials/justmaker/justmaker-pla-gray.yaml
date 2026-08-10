@@ -6,7 +6,6 @@ name: PLA Gray
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.amazon.com/JUSTMAKER-Filament-Cardboard-Printers-Dimensional/dp/B0F13K1YXB?ref_=ast_sto_dp&th=1
 primary_color:
   color_rgba: '#b2b2b2ff'
 tags:

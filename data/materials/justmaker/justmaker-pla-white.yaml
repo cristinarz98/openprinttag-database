@@ -6,7 +6,6 @@ name: PLA White
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.amazon.com/JUSTMAKER-Filament-Cardboard-Printers-Dimensional/dp/B0CPSHZWRG?ref_=ast_sto_dp&th=1
 primary_color:
   color_rgba: '#fafafaff'
 tags:

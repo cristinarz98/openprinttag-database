@@ -6,7 +6,6 @@ name: TPU-R Natural
 class: FFF
 type: TPU
 abbreviation: TPU
-url: https://www.igo3d.com/kimya-tpu-r-filament_2
 primary_color:
   color_rgba: '#e6eaefff'
 tags:

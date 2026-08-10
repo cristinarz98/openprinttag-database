@@ -6,7 +6,6 @@ name: Virgin PETG ESD
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://francofil.fr/en/product/petg-esd-vierge/
 primary_color:
   color_rgba: '#f2efe9ff'
 tags:

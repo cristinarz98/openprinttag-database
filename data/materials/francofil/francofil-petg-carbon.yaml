@@ -6,7 +6,6 @@ name: PETG Carbon
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://francofil.fr/en/product/filament-petg-carbone/
 primary_color:
   color_rgba: '#232323ff'
 tags:

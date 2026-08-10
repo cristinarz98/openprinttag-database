@@ -6,7 +6,6 @@ name: TPU Green
 class: FFF
 type: TPU
 abbreviation: TPU
-url: https://kingroon.com/products/10kg-tpu-3d-printer-filament?variant=46931212828890
 primary_color:
   color_rgba: '#00af66ff'
 properties:

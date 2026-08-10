@@ -6,7 +6,6 @@ name: ASA Blanc
 class: FFF
 type: ASA
 abbreviation: ASA
-url: https://francofil.fr/en/product/filament-asa-blanc/
 primary_color:
   color_rgba: '#f5f5f5ff'
 properties: {}

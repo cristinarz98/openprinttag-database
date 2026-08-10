@@ -6,7 +6,6 @@ name: PLA Blue
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.amazon.com/JUSTMAKER-Filament-Cardboard-Printers-Dimensional/dp/B0F13P71RL?ref_=ast_sto_dp&th=1
 primary_color:
   color_rgba: '#2941bdff'
 tags:

@@ -6,7 +6,6 @@ name: ASA Black
 class: FFF
 type: ASA
 abbreviation: ASA
-url: https://tonerplastics.com/product/asa-filament-reels/
 primary_color:
   color_rgba: '#000000ff'
 properties: {}

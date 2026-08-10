@@ -6,7 +6,6 @@ name: TPU 98A Red
 class: FFF
 type: TPU
 abbreviation: TPU
-url: https://francofil.fr/en/product/tpu-98a-rouge/
 primary_color:
   color_rgba: '#ec0000ff'
 properties:

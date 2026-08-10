@@ -6,7 +6,6 @@ name: HIPS-R Grey
 class: FFF
 type: HIPS
 abbreviation: HIPS
-url: https://www.igo3d.com/kimya-hips-r-filament_3
 primary_color:
   color_rgba: '#d1d3d4ff'
 tags:

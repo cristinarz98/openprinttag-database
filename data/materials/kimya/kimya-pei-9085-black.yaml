@@ -6,7 +6,6 @@ name: PEI-9085 Black
 class: FFF
 type: PEI
 abbreviation: PEI
-url: https://www.igo3d.com/kimya-pei-9085-filament
 primary_color:
   color_rgba: '#000000ff'
 properties: {}

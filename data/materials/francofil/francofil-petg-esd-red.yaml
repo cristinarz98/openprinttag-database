@@ -6,7 +6,6 @@ name: PETG ESD Red
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://francofil.fr/en/product/petg-esd-rouge/
 primary_color:
   color_rgba: '#e72f1dff'
 tags:

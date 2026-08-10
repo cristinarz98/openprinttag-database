@@ -6,7 +6,6 @@ name: HS Matte PLA Rainbow Macaron
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://gratkit.com/collections/3d-printing-filament/products/pla-filament
 secondary_colors:
 - color_rgba: '#74e5eaff'
 - color_rgba: '#f5f3d1ff'

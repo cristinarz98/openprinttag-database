@@ -6,7 +6,6 @@ name: PLA Grey RAL 7040
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://francofil.fr/en/product/filament-pla-gris-ral-7040/
 primary_color:
   color_rgba: '#bdc8c8ff'
 tags:

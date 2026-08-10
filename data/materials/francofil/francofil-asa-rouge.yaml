@@ -6,7 +6,6 @@ name: ASA Rouge
 class: FFF
 type: ASA
 abbreviation: ASA
-url: https://francofil.fr/en/product/filament-asa-rouge/
 primary_color:
   color_rgba: '#e72f1dff'
 properties: {}

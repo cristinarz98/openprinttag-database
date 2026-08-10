@@ -6,7 +6,6 @@ name: TPU 95A Virgin
 class: FFF
 type: TPU
 abbreviation: TPU
-url: https://francofil.fr/en/product/filament-tpu-95a-vierge/
 primary_color:
   color_rgba: '#dfdfd3ff'
 tags:

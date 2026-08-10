@@ -6,7 +6,6 @@ name: TPU Natural
 class: FFF
 type: TPU
 abbreviation: TPU
-url: https://tonerplastics.com/product/tpu-filament-reels/
 primary_color:
   color_rgba: '#dcd8d4ff'
 tags:
