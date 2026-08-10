@@ -6,7 +6,6 @@ name: Matte PLA Navy Blue
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.amazon.co.uk/PLA-Filament-Dimensional-Accuracy-Printers/dp/B0DKFHMBNS?ref_=ast_sto_dp&th=1
 primary_color:
   color_rgba: '#3b3f6bff'
 tags:

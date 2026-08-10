@@ -6,7 +6,6 @@ name: Rapid PLA+ Orange
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.amazon.co.uk/DEEPLEE-Filament-Dimensional-Accuracy-Printers/dp/B0DKFCTG59?ref_=ast_sto_dp&th=1
 primary_color:
   color_rgba: '#f59144ff'
 tags:

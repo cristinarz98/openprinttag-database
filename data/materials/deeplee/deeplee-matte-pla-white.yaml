@@ -6,7 +6,6 @@ name: Matte PLA White
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.amazon.co.uk/PLA-Filament-Dimensional-Accuracy-Printers/dp/B0DKFLMPPG?ref_=ast_sto_dp&th=1
 primary_color:
   color_rgba: '#f5f5f5ff'
 tags:

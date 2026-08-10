@@ -6,7 +6,6 @@ name: Unicorn Elixir ASA
 class: FFF
 type: ASA
 abbreviation: ASA
-url: https://cookiecad.com/products/asa-unicorn-elixir-asa-filament-1-75mm-1kg?Quantity=1+kg+spool
 secondary_colors:
 - color_rgba: '#ff72b6ff'
 - color_rgba: '#8d65c7ff'

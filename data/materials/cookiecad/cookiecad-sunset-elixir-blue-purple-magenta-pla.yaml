@@ -6,7 +6,6 @@ name: Sunset Elixir (blue → purple → magenta) PLA
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://cookiecad.com/products/copy-of-sunrise-elixir-pink-orange-yellow-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
 secondary_colors:
 - color_rgba: '#4921c1ff'
 - color_rgba: '#6000b0ff'

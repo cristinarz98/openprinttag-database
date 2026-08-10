@@ -6,7 +6,6 @@ name: ASA RED
 class: FFF
 type: ASA
 abbreviation: ASA
-url: https://www.smart3d.cz/en/p/filament-devil-design-asa-red-1-75-mm-0-8-kg#
 primary_color:
   color_rgba: '#ec0000ff'
 properties: {}

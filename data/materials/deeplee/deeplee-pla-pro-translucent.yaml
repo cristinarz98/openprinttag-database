@@ -6,7 +6,6 @@ name: PLA PRO Translucent
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.amazon.co.uk/Filament-Stronger-Toughness-Dimensional-Accuracy/dp/B0F66P5RLY?ref_=ast_sto_dp&th=1
 primary_color:
   color_rgba: '#ebecedff'
 tags:

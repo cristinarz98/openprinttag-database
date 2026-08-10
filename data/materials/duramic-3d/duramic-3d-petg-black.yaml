@@ -6,7 +6,6 @@ name: PETG Black
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://duramic3d.com/products/duramic-3d-petg-filament?variant=32284741795911
 primary_color:
   color_rgba: '#000000ff'
 properties:

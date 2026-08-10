@@ -6,7 +6,6 @@ name: Standard PETG Black
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://filaments.ca/collections/petg/products/econofil-standard-petg-black
 primary_color:
   color_rgba: '#000000ff'
 properties: {}

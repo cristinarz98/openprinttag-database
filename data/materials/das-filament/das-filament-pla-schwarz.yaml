@@ -6,7 +6,6 @@ name: PLA Schwarz
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.dasfilament.de/filament-spools/pla-1-75-mm/2/pla-filament-1-75-mm-schwarz-800-g?c=33
 primary_color:
   color_rgba: '#000000ff'
 tags:

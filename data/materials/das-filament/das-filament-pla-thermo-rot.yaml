@@ -6,7 +6,6 @@ name: PLA Thermo-Rot
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.dasfilament.de/filament-spools/pla-1-75-mm/102/pla-filament-1-75-mm-thermo-rot-800-g?c=33
 primary_color:
   color_rgba: '#ec0000ff'
 secondary_colors:

@@ -6,7 +6,6 @@ name: Silk PLA True Red
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.amazon.co.uk/Filament-Accuracy-Tolerance-Materials-Compatible/dp/B0G1KVM2RK?ref_=ast_sto_dp&th=1
 primary_color:
   color_rgba: '#d33d3dff'
 tags:

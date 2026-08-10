@@ -6,7 +6,6 @@ name: PETG Gray
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://www.amazon.co.uk/Filament-Resistance-Printing-Materials-Printers/dp/B0DSMHV6XL?ref_=ast_sto_dp&th=1
 primary_color:
   color_rgba: '#c8c8c8ff'
 properties: {}

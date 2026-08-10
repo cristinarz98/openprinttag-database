@@ -6,7 +6,6 @@ name: PETG Weiß
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://www.dasfilament.de/filament-spools/petg-1-75-mm/157/petg-filament-1-75-mm-weiss-800-g?c=35
 primary_color:
   color_rgba: '#ffffffff'
 properties: {}

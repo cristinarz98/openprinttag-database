@@ -6,7 +6,6 @@ name: Rapid PLA+ Black
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.amazon.co.uk/DEEPLEE-Filament-Dimensional-Accuracy-Printers/dp/B0DKFJLXSD?ref_=ast_sto_dp&th=1
 primary_color:
   color_rgba: '#232323ff'
 tags:

@@ -6,7 +6,6 @@ name: Standard PETG Blue
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://filaments.ca/collections/petg/products/econofil-standard-petg-blue
 primary_color:
   color_rgba: '#0353baff'
 properties: {}

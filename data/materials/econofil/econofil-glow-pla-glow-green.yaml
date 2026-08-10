@@ -6,7 +6,6 @@ name: Glow PLA Glow Green
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://filaments.ca/collections/econofil-pla/products/econofil-basic-pla-glow-green
 primary_color:
   color_rgba: '#00f03cff'
 secondary_colors:

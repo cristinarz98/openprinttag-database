@@ -6,7 +6,6 @@ name: PETG Rubinrot
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://www.dasfilament.de/filament-spools/petg-1-75-mm/174/petg-filament-1-75-mm-rubinrot-800-g?c=35
 primary_color:
   color_rgba: '#ac1a17ff'
 properties: {}

@@ -6,7 +6,6 @@ name: Standard PETG Dark Orange
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://filaments.ca/collections/petg/products/econofil-standard-petg-orange
 primary_color:
   color_rgba: '#ff6600ff'
 properties: {}

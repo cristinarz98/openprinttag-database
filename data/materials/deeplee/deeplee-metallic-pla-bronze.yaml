@@ -6,7 +6,6 @@ name: Metallic PLA Bronze
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.amazon.co.uk/Filament-Accuracy-Tolerance-Materials-Compatible/dp/B0G1KR5RXC?ref_=ast_sto_dp&th=1
 primary_color:
   color_rgba: '#ba9373ff'
 tags:

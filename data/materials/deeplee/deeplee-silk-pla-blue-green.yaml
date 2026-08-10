@@ -6,7 +6,6 @@ name: Silk PLA Blue Green
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.amazon.co.uk/Filament-Accuracy-Tolerance-Materials-Compatible/dp/B0DS5XMXYP?ref_=ast_sto_dp&th=1
 secondary_colors:
 - color_rgba: '#02a76bff'
 - color_rgba: '#0074bcff'

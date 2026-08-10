@@ -6,7 +6,6 @@ name: Matte PLA Slate Grey
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.amazon.co.uk/PLA-Filament-Dimensional-Accuracy-Printers/dp/B0DKFHZTZH?ref_=ast_sto_dp&th=1
 primary_color:
   color_rgba: '#b2b2b2ff'
 tags:

@@ -6,7 +6,6 @@ name: PETG Magenta
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://duramic3d.com/products/duramic-3d-petg-filament?variant=40004654923971
 primary_color:
   color_rgba: '#fe0194ff'
 properties:

@@ -6,7 +6,6 @@ name: PETG Feuerrot
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://www.dasfilament.de/filament-spools/petg-1-75-mm/227/petg-filament-1-75-mm-feuerrot-800-g?c=35
 primary_color:
   color_rgba: '#ff2c29ff'
 properties: {}

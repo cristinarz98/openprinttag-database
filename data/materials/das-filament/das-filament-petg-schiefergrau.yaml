@@ -6,7 +6,6 @@ name: PETG Schiefergrau
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://www.dasfilament.de/filament-spools/petg-1-75-mm/159/petg-filament-1-75-mm-schiefergrau-800-g?c=35
 primary_color:
   color_rgba: '#5a696cff'
 properties: {}

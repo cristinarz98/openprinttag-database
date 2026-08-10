@@ -6,7 +6,6 @@ name: PLA Translucent
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.amazon.co.uk/PLA-Filament-Tolerance-Materials-Compatible/dp/B0DKFH1NPN?ref_=ast_sto_dp&th=1
 primary_color:
   color_rgba: '#f8f8eeff'
 tags:

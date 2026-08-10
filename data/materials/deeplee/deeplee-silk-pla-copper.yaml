@@ -6,7 +6,6 @@ name: Silk PLA Copper
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.amazon.co.uk/Filament-Accuracy-Tolerance-Materials-Compatible/dp/B0DS61GN43?ref_=ast_sto_dp&th=1
 primary_color:
   color_rgba: '#c9774bff'
 tags:

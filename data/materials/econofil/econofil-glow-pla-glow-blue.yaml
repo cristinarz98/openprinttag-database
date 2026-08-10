@@ -6,7 +6,6 @@ name: Glow PLA Glow Blue
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://filaments.ca/collections/econofil-pla/products/econofil-basic-pla-glow-blue
 primary_color:
   color_rgba: '#0066d9ff'
 secondary_colors:

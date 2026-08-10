@@ -6,7 +6,6 @@ name: Dark Magic TPU 95A
 class: FFF
 type: TPU
 abbreviation: TPU
-url: https://cookiecad.com/products/tpu-dark-magic-tpu-95a-filament-1-75mm-1kg?Quantity=1+kg+spool
 secondary_colors:
 - color_rgba: '#2a3940ff'
 - color_rgba: '#02776fff'
