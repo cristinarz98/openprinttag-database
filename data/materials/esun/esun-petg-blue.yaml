@@ -6,7 +6,6 @@ name: PETG Blue
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://www.amazon.com/eSUN-1-75mm-Filament-Printer-Semi-Transparent/dp/B00PRY1792
 primary_color:
   color_rgba: '#0353baff'
 tags:

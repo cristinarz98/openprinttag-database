@@ -6,7 +6,6 @@ name: F3 TPU 80A Red
 class: FFF
 type: TPU
 abbreviation: TPU
-url: https://www.fiberthree.com/filaments#F3PC
 primary_color:
   color_rgba: '#ac1a17ff'
 properties:

@@ -6,7 +6,6 @@ name: PLA Transparent
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.eumakers.com/pla-filament-color-transparent.html
 primary_color:
   color_rgba: '#f2ece9ff'
 tags:

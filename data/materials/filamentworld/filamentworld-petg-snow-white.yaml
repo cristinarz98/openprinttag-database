@@ -6,7 +6,6 @@ name: PETG Snow White
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://filamentworld.de/shop/special-filament/petg-filament/petg-filament-1-75-mm-schneeweiss/?compare=117652
 primary_color:
   color_rgba: '#f5f5f5ff'
 properties: {}

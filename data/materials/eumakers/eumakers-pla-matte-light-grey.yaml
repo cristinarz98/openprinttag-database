@@ -6,7 +6,6 @@ name: PLA Matte Light Grey
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.eumakers.com/pla-filament-color-matte-light-grey.html
 primary_color:
   color_rgba: '#ded9d4ff'
 tags:

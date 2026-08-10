@@ -6,7 +6,6 @@ name: PLA UV Color Change Red
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://esun3dstoreeu.com/products/pla-uv-color-change?VariantsId=12879
 secondary_colors:
   - color_rgba: '#ef6063ff'
   - color_rgba: '#e5e9e3ff'

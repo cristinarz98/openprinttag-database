@@ -6,7 +6,6 @@ name: PLA Fluorescent Yellow
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.eumakers.com/pla-filament-color-fluorescent-yellow.html
 primary_color:
   color_rgba: '#e4ff33ff'
 tags:

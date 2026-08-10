@@ -6,7 +6,6 @@ name: PLA Woodfir
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.colorhexa.com/b39374
 primary_color:
   color_rgba: '#b39374ff'
 tags:

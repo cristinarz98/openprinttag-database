@@ -6,7 +6,6 @@ name: PLA Matte White
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.eumakers.com/pla-filament-color-matte-white.html
 primary_color:
   color_rgba: '#f2efe9ff'
 tags:

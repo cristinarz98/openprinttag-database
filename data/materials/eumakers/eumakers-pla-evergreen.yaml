@@ -6,7 +6,6 @@ name: PLA Evergreen
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.eumakers.com/pla-filament-color-evergreen.html
 primary_color:
   color_rgba: '#006f62ff'
 tags:

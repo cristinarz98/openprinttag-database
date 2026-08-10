@@ -6,7 +6,6 @@ name: ABS Transparent
 class: FFF
 type: ABS
 abbreviation: ABS
-url: https://filamentworld.de/shop/filament-3d-drucker/abs-filament-1-75-mm-transparent/?compare=117652
 primary_color:
   color_rgba: '#dee2daff'
 tags:

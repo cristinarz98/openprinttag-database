@@ -6,7 +6,6 @@ name: PETG Orange
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://www.amazon.com/eSUN-Filament-Dimensional-Accuracy-Printing/dp/B07FXC7GWH
 primary_color:
   color_rgba: '#f67405ff'
 tags:

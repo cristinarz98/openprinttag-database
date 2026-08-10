@@ -6,7 +6,6 @@ name: PLA Red
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.eumakers.com/pla-filament-color-red.html
 primary_color:
   color_rgba: '#ef3340ff'
 tags:

@@ -6,7 +6,6 @@ name: ABS Red (Luminous)
 class: FFF
 type: ABS
 abbreviation: ABS
-url: https://fila-tech.store/product/abs-filament/
 primary_color:
   color_rgba: '#e03f26ff'
 tags:

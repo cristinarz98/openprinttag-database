@@ -6,7 +6,6 @@ name: FAST PRINTS PLA White
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.eumakers.com/fast-prints-pla-filament-color-white.html
 primary_color:
   color_rgba: '#efefefff'
 tags:

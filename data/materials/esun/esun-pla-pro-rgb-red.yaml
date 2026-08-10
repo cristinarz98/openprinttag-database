@@ -6,7 +6,6 @@ name: PLA+ RGB Red
 class: FFF
 type: PLA
 abbreviation: PLA Pro
-url: https://esun3dstoreeu.com/products/pla-pro?VariantsId=13366
 primary_color:
   color_rgba: '#f00c00ff'
 tags:

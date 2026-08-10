@@ -6,7 +6,6 @@ name: PLA Matte Black
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.eumakers.com/pla-filament-color-matte-black.html
 primary_color:
   color_rgba: '#3e413fff'
 tags:

@@ -6,7 +6,6 @@ name: F3 PLA GF
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.fiberthree.com/filaments#F3PC
 primary_color:
   color_rgba: '#000000ff'
 tags:

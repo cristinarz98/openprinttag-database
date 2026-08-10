@@ -6,7 +6,6 @@ name: PLA Marble Effect
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.eumakers.com/pla-filament-color-marble-effect.html
 primary_color:
   color_rgba: '#f5f5f5ff'
 tags:

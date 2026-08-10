@@ -6,7 +6,6 @@ name: PLA Fluorescent Blue
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.eumakers.com/pla-filament-color-fluorescent-blue.html
 primary_color:
   color_rgba: '#0353baff'
 tags:

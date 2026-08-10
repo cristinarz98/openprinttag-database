@@ -6,7 +6,6 @@ name: F3 PA-GF30 Pro
 class: FFF
 type: PA6
 abbreviation: PA6
-url: https://www.fiberthree.com/filaments#F3PC
 primary_color:
   color_rgba: '#000000ff'
 tags:

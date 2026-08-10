@@ -6,7 +6,6 @@ name: PLA Orange Brick
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.eumakers.com/pla-filament-color-orange-brick.html
 primary_color:
   color_rgba: '#cd563bff'
 tags:

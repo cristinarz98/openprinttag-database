@@ -6,7 +6,6 @@ name: TPU 95A Gray
 class: FFF
 type: TPU
 abbreviation: TPU
-url: https://www.amazon.com/eSUN-1-75mm-Flexible-Printer-Filament/dp/B07LFG8HRV
 primary_color:
   color_rgba: '#7a838eff'
 properties:

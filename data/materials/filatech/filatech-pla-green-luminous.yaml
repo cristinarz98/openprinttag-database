@@ -6,7 +6,6 @@ name: PLA Green (Luminous)
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://fila-tech.store/product/pla-filament/
 primary_color:
   color_rgba: '#61c680ff'
 tags:

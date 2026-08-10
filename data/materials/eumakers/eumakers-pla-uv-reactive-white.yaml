@@ -6,7 +6,6 @@ name: PLA UV Reactive White
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.eumakers.com/pla-uv-reactive-filament-color-white.html
 primary_color:
   color_rgba: '#0099e6ff'
 secondary_colors:

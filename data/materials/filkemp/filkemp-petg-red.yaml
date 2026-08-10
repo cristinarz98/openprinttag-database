@@ -6,7 +6,6 @@ name: PETG Red
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://3dfilkemp.com/product/petg-blend/
 primary_color:
   color_rgba: '#e72f1dff'
 properties: {}
