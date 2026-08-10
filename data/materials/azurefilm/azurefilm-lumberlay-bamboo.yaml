@@ -6,7 +6,6 @@ name: LumberLay Bamboo
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://azurefilm.com/product/refill-lumberlay-bamboo/
 primary_color:
   color_rgba: '#dfbf9fff'
 tags:

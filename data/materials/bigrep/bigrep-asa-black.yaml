@@ -6,7 +6,6 @@ name: ASA Black
 class: FFF
 type: ASA
 abbreviation: ASA
-url: https://shop.bigrep.com/products/asa
 primary_color:
   color_rgba: '#262727ff'
 properties: {}

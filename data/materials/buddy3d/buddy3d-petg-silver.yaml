@@ -6,7 +6,6 @@ name: PETG Silver
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://www.prusa3d.com/product/buddy3d-petg-silver-1kg/
 primary_color:
   color_rgba: '#a8b0bdff'
 properties:

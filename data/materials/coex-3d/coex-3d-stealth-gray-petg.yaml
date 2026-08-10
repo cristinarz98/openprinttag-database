@@ -6,7 +6,6 @@ name: Stealth Gray PETG
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://coex3d.com/products/stealth-gray-petg?variant=41276022161591
 primary_color:
   color_rgba: '#3f4647ff'
 properties: {}

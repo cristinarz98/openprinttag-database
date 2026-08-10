@@ -6,7 +6,6 @@ name: ASA Red
 class: FFF
 type: ASA
 abbreviation: ASA
-url: https://www.prusa3d.com/product/buddy3d-asa-red-750g/
 primary_color:
   color_rgba: '#ff4f4dff'
 properties:

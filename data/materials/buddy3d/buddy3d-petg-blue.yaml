@@ -6,7 +6,6 @@ name: PETG Blue
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://www.prusa3d.com/product/buddy3d-petg-blue-1kg/
 primary_color:
   color_rgba: '#0099e6ff'
 properties:

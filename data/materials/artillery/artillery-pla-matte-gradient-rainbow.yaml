@@ -6,7 +6,6 @@ name: PLA Matte Gradient Rainbow
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://eu.artillery3d.com/products/pla-matte-gradient?variant=51788791972126
 secondary_colors:
 - color_rgba: '#f19dcdff'
 - color_rgba: '#40e0d0ff'

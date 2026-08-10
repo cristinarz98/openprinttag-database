@@ -6,7 +6,6 @@ name: PLA Transparent
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://azurefilm.com/product/pla-transparent-filament/
 primary_color:
   color_rgba: '#dee2daff'
 tags:

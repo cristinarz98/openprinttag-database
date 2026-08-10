@@ -6,7 +6,6 @@ name: rPLA Nature
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://shop.bigrep.com/products/rpla/
 primary_color:
   color_rgba: '#e9dcbbff'
 tags:

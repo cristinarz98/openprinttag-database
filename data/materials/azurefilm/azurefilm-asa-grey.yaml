@@ -6,7 +6,6 @@ name: ASA Grey
 class: FFF
 type: ASA
 abbreviation: ASA
-url: https://azurefilm.com/product/asa-filament-grey/
 primary_color:
   color_rgba: '#707674ff'
 tags:

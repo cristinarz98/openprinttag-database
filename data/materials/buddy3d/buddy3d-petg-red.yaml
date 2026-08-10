@@ -6,7 +6,6 @@ name: PETG Red
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://www.prusa3d.com/product/buddy3d-petg-red-1kg/
 primary_color:
   color_rgba: '#ff0505ff'
 properties:

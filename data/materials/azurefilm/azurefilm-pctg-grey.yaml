@@ -6,7 +6,6 @@ name: PCTG Grey
 class: FFF
 type: PCTG
 abbreviation: PCTG
-url: https://azurefilm.com/product/pctg-filament-grey/
 primary_color:
   color_rgba: '#697272ff'
 properties: {}

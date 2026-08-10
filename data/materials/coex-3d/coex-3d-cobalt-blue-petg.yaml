@@ -6,7 +6,6 @@ name: Cobalt Blue PETG
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://coex3d.com/products/cobalt-blue-petg?variant=41279437144247
 primary_color:
   color_rgba: '#3a00b9ff'
 properties: {}

@@ -6,7 +6,6 @@ name: Black PETG
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://coex3d.com/products/black-petg?variant=41279436161207
 primary_color:
   color_rgba: '#000000ff'
 properties: {}

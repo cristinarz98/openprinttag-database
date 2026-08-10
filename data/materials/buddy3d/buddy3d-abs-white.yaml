@@ -6,7 +6,6 @@ name: ABS White
 class: FFF
 type: ABS
 abbreviation: ABS
-url: https://www.prusa3d.com/product/buddy3d-abs-white-750g/
 primary_color:
   color_rgba: '#ffffffff'
 tags:

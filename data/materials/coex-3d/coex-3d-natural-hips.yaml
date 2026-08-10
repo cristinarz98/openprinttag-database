@@ -6,7 +6,6 @@ name: Natural HIPS
 class: FFF
 type: HIPS
 abbreviation: HIPS
-url: https://coex3d.com/products/natural-hips
 primary_color:
   color_rgba: '#f5f5f5ff'
 properties: {}

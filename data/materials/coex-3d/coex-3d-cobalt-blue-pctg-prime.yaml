@@ -6,7 +6,6 @@ name: Cobalt Blue PCTG Prime
 class: FFF
 type: PCTG
 abbreviation: PCTG
-url: https://coex3d.com/products/cobalt-blue-pctg-prime
 primary_color:
   color_rgba: '#3a00b9ff'
 properties: {}

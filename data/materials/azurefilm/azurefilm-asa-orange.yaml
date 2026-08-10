@@ -6,7 +6,6 @@ name: ASA Orange
 class: FFF
 type: ASA
 abbreviation: ASA
-url: https://azurefilm.com/product/asa-filament-orange/
 primary_color:
   color_rgba: '#fd9106ff'
 tags:

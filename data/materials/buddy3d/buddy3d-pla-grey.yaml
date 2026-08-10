@@ -6,7 +6,6 @@ name: PLA Grey
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.prusa3d.com/product/buddy3d-pla-grey-1kg/
 primary_color:
   color_rgba: '#b8bab8ff'
 tags:

@@ -6,7 +6,6 @@ name: PLA Skin Latte
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://azurefilm.com/product/pla-skin-filament-latte/
 primary_color:
   color_rgba: '#f7e2c1ff'
 tags:

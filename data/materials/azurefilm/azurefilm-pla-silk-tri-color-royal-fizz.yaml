@@ -6,7 +6,6 @@ name: PLA Silk Tri Color Royal Fizz
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://azurefilm.com/product/pla-silk-tri-color-royal-fizz/
 secondary_colors:
   - color_rgba: '#473fc9ff'
   - color_rgba: '#ec008cff'

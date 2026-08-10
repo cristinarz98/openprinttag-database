@@ -6,7 +6,6 @@ name: ABS Prime Black
 class: FFF
 type: ABS
 abbreviation: ABS
-url: https://azurefilm.com/product/abs-prime-filament-black/
 primary_color:
   color_rgba: '#232323ff'
 properties: {}

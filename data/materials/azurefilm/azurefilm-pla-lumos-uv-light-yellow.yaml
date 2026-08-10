@@ -6,7 +6,6 @@ name: PLA Lumos UV Light Yellow
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://azurefilm.com/product/pla-lumos-filament-uv-light-yellow/
 primary_color:
   color_rgba: '#ffffbcff'
 tags:

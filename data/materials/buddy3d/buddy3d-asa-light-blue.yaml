@@ -6,7 +6,6 @@ name: ASA Light Blue
 class: FFF
 type: ASA
 abbreviation: ASA
-url: https://www.prusa3d.com/product/buddy3d-asa-light-blue-750g/
 primary_color:
   color_rgba: '#0099e6ff'
 properties:

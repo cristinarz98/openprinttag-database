@@ -6,7 +6,6 @@ name: Cosmic Graphite PLA v2
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://atomicfilament.com/products/cosmic-graphite-pla-filament
 primary_color:
   color_rgba: '#303635ff'
 tags:

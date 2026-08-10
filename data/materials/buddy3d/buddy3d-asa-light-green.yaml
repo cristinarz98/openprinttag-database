@@ -6,7 +6,6 @@ name: ASA Light Green
 class: FFF
 type: ASA
 abbreviation: ASA
-url: https://www.prusa3d.com/product/buddy3d-asa-light-green-750g/
 primary_color:
   color_rgba: '#00cc00ff'
 properties:

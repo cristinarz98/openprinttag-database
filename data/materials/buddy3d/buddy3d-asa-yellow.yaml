@@ -6,7 +6,6 @@ name: ASA Yellow
 class: FFF
 type: ASA
 abbreviation: ASA
-url: https://www.prusa3d.com/product/buddy3d-asa-yellow-750g/
 primary_color:
   color_rgba: '#f5ec97ff'
 properties:

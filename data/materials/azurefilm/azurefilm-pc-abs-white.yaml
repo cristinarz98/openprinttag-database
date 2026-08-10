@@ -6,7 +6,6 @@ name: PC ABS White
 class: FFF
 type: ABS
 abbreviation: ABS
-url: https://azurefilm.com/product/pc-abs-filament-white/
 primary_color:
   color_rgba: '#f5f5f5ff'
 tags:

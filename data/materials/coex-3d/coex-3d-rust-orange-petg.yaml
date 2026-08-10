@@ -6,7 +6,6 @@ name: Rust Orange PETG
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://coex3d.com/products/rust-orange-petg?variant=41279443501239
 primary_color:
   color_rgba: '#e03f26ff'
 properties: {}

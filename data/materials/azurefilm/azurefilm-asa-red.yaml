@@ -6,7 +6,6 @@ name: ASA Red
 class: FFF
 type: ASA
 abbreviation: ASA
-url: https://azurefilm.com/product/asa-filament-red/
 primary_color:
   color_rgba: '#e20010ff'
 tags:

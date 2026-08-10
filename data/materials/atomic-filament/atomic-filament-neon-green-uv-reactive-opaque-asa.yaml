@@ -6,7 +6,6 @@ name: Neon Green UV Reactive Opaque ASA
 class: FFF
 type: ASA
 abbreviation: ASA
-url: https://atomicfilament.com/products/neon-green-uv-reactive-asa-filament-ams-compatible
 primary_color:
   color_rgba: '#01e041ff'
 properties: {}

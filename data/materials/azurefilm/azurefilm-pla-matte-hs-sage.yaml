@@ -6,7 +6,6 @@ name: PLA Matte HS Sage
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://azurefilm.com/product/pla-matte-hs-filament-sage/
 primary_color:
   color_rgba: '#b4bab0ff'
 tags:

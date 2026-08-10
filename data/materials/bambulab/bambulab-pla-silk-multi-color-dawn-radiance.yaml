@@ -6,7 +6,6 @@ name: PLA Silk Multi-Color Dawn Radiance
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://eu.store.bambulab.com/products/pla-silk-multi-color?id=601314264425144324
 secondary_colors:
 - color_rgba: '#e65a9dff'
 - color_rgba: '#9d00b1ff'

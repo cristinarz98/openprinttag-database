@@ -6,7 +6,6 @@ name: PET-G Signal Grey
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://www.aurapol.com/p/pet-g-filament-signal-grey-1-kg-1-75-mm-aurapol
 primary_color:
   color_rgba: '#ded9d4ff'
 properties: {}

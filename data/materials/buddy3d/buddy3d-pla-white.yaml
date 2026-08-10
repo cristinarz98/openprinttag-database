@@ -6,7 +6,6 @@ name: PLA White
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.prusa3d.com/product/buddy3d-pla-white-1kg/
 primary_color:
   color_rgba: '#ffffffff'
 tags:

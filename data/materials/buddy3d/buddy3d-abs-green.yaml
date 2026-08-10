@@ -6,7 +6,6 @@ name: ABS Green
 class: FFF
 type: ABS
 abbreviation: ABS
-url: https://www.prusa3d.com/product/buddy3d-abs-green-750g/
 primary_color:
   color_rgba: '#089a45ff'
 tags:

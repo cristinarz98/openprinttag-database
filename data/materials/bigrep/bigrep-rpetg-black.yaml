@@ -6,7 +6,6 @@ name: rPETG Black
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://shop.bigrep.com/products/rpetg
 primary_color:
   color_rgba: '#262727ff'
 tags:

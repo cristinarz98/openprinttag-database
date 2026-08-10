@@ -6,7 +6,6 @@ name: PLA Beige
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.prusa3d.com/product/buddy3d-pla-beige-1kg/
 primary_color:
   color_rgba: '#e9d1c1ff'
 tags:

@@ -6,7 +6,6 @@ name: LumberLay Pine
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://azurefilm.com/product/refill-lumberlay-pine/
 primary_color:
   color_rgba: '#d4b6a3ff'
 tags:

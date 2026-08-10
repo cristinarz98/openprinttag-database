@@ -6,7 +6,6 @@ name: ASA Silver
 class: FFF
 type: ASA
 abbreviation: ASA
-url: https://azurefilm.com/product/asa-filament-silver/
 primary_color:
   color_rgba: '#aeb8c1ff'
 tags:

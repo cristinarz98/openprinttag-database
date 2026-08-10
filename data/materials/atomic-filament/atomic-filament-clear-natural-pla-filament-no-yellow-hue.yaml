@@ -6,7 +6,6 @@ name: Clear / Natural PLA Filament "NO YELLOW HUE"
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://atomicfilament.com/products/natural-pla-filament
 primary_color:
   color_rgba: '#e4e7e5ff'
 tags:

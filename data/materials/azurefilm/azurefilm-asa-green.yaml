@@ -6,7 +6,6 @@ name: ASA Green
 class: FFF
 type: ASA
 abbreviation: ASA
-url: https://azurefilm.com/product/asa-filament-green/
 primary_color:
   color_rgba: '#00c26bff'
 tags:

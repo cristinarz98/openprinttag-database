@@ -6,7 +6,6 @@ name: PETG Lila
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://www.prusa3d.com/product/buddy3d-petg-lila-1kg/
 primary_color:
   color_rgba: '#8d65c7ff'
 properties:

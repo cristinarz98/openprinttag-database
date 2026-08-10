@@ -6,7 +6,6 @@ name: Perfect Yellow ASA
 class: FFF
 type: ASA
 abbreviation: ASA
-url: https://atomicfilament.com/products/perfect-yellow-asa-filament
 primary_color:
   color_rgba: '#eeea44ff'
 properties: {}

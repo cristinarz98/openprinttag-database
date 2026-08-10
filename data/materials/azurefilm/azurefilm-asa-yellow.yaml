@@ -6,7 +6,6 @@ name: ASA Yellow
 class: FFF
 type: ASA
 abbreviation: ASA
-url: https://azurefilm.com/product/asa-filament-yellow/
 primary_color:
   color_rgba: '#fad61bff'
 tags:

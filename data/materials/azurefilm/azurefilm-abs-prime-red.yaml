@@ -6,7 +6,6 @@ name: ABS Prime Red
 class: FFF
 type: ABS
 abbreviation: ABS
-url: https://azurefilm.com/product/abs-prime-filament-red/
 primary_color:
   color_rgba: '#e31a1fff'
 properties: {}

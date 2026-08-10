@@ -6,7 +6,6 @@ name: ABS Prime Silver
 class: FFF
 type: ABS
 abbreviation: ABS
-url: https://azurefilm.com/product/abs-prime-filament-silver/
 primary_color:
   color_rgba: '#abacb0ff'
 properties: {}

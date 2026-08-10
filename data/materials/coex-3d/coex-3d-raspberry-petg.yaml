@@ -6,7 +6,6 @@ name: Raspberry PETG
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://coex3d.com/products/raspberry-petg?variant=41279443337399
 primary_color:
   color_rgba: '#d41754ff'
 properties: {}

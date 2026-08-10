@@ -6,7 +6,6 @@ name: Royal Blue ASA
 class: FFF
 type: ASA
 abbreviation: ASA
-url: https://atomicfilament.com/products/royal-blue-asa-filament-ams-compatible
 primary_color:
   color_rgba: '#2e56f1ff'
 properties: {}

@@ -6,7 +6,6 @@ name: PLA Black
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://shop.bigrep.com/products/pla
 primary_color:
   color_rgba: '#000000ff'
 tags:

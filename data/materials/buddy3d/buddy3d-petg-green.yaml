@@ -6,7 +6,6 @@ name: PETG Green
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://www.prusa3d.com/product/buddy3d-petg-green-1kg/
 primary_color:
   color_rgba: '#089a45ff'
 properties:

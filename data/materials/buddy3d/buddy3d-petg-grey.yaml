@@ -6,7 +6,6 @@ name: PETG Grey
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://www.prusa3d.com/product/buddy3d-petg-grey-1kg/
 primary_color:
   color_rgba: '#727376ff'
 properties:

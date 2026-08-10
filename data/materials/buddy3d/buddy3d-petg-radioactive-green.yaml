@@ -6,7 +6,6 @@ name: PETG Radioactive Green
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://www.prusa3d.com/product/buddy3d-petg-radioactive-green-1kg/
 primary_color:
   color_rgba: '#70fa00ff'
 properties:

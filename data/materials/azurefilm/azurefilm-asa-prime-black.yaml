@@ -6,7 +6,6 @@ name: ASA Prime Black
 class: FFF
 type: ASA
 abbreviation: ASA
-url: https://azurefilm.com/product/asa-prime-filament-black/
 primary_color:
   color_rgba: '#232323ff'
 properties: {}

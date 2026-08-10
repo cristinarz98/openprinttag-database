@@ -6,7 +6,6 @@ name: ASA Blue
 class: FFF
 type: ASA
 abbreviation: ASA
-url: https://azurefilm.com/product/asa-filament-blue/
 primary_color:
   color_rgba: '#0099e6ff'
 tags:

@@ -6,7 +6,6 @@ name: Stealth Gray PCTG Prime
 class: FFF
 type: PCTG
 abbreviation: PCTG
-url: https://coex3d.com/products/stealth-gray-pctg-prime
 primary_color:
   color_rgba: '#545f67ff'
 properties: {}

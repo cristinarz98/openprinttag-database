@@ -6,7 +6,6 @@ name: White PCTG Prime
 class: FFF
 type: PCTG
 abbreviation: PCTG
-url: https://coex3d.com/products/white-pctg-prime
 primary_color:
   color_rgba: '#f5f5f5ff'
 properties: {}

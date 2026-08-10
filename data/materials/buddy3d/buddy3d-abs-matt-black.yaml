@@ -6,7 +6,6 @@ name: ABS Matt BLACK
 class: FFF
 type: ABS
 abbreviation: ABS
-url: https://www.prusa3d.com/product/buddy3d-abs-matt-black-750g/
 primary_color:
   color_rgba: '#000000ff'
 tags:

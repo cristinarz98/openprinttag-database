@@ -6,7 +6,6 @@ name: Perfect Orange ASA
 class: FFF
 type: ASA
 abbreviation: ASA
-url: https://atomicfilament.com/products/perfect-orange-asa-ams-compatible
 primary_color:
   color_rgba: '#f78e0eff'
 properties: {}

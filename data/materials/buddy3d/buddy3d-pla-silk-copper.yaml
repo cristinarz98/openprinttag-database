@@ -6,7 +6,6 @@ name: PLA Silk Copper
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.prusa3d.com/product/buddy3d-pla-silk-copper-1kg/
 primary_color:
   color_rgba: '#863938ff'
 tags:

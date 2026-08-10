@@ -6,7 +6,6 @@ name: PLX Black
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://shop.bigrep.com/products/plx
 primary_color:
   color_rgba: '#262727ff'
 tags:
