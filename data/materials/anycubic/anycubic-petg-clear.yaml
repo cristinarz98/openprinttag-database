@@ -6,7 +6,6 @@ name: PETG Clear
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://store.anycubic.com/products/petg-filament?variant=45356781633698
 primary_color:
   color_rgba: '#edf0f2ff'
 tags:

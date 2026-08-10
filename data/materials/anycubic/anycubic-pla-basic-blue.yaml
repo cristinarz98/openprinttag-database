@@ -6,7 +6,6 @@ name: PLA Basic Blue
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://store.anycubic.com/products/pla-filament?variant=28613838733372
 primary_color:
   color_rgba: '#003594ff'
 tags:

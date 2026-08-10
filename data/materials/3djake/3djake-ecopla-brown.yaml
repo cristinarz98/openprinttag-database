@@ -6,7 +6,6 @@ name: ecoPLA Brown
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.3djake.com/3djake/ecopla-brown
 primary_color:
   color_rgba: '#452f25ff'
 tags:

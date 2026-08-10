@@ -6,7 +6,6 @@ name: PETG Grey
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://store.anycubic.com/products/petg-filament?variant=45672721973410
 primary_color:
   color_rgba: '#a7a8aaff'
 properties: {}

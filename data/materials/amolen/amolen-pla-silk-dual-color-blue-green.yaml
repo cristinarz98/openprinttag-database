@@ -6,7 +6,6 @@ name: PLA Silk Dual Color Blue Green
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.amolen.com/products/pla-silk-dual
 secondary_colors:
 - color_rgba: '#0bd10bff'
 - color_rgba: '#0078bfff'

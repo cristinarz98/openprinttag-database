@@ -6,7 +6,6 @@ name: PLA+ Bright Red
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://store.anycubic.com/products/pla-plus-filament?variant=45796565647522
 primary_color:
   color_rgba: '#e60000ff'
 tags:

@@ -6,7 +6,6 @@ name: easyPETG Purple
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://www.3djake.com/3djake/easypetg-purple
 primary_color:
   color_rgba: '#8d65c7ff'
 properties: {}

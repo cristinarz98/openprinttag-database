@@ -6,7 +6,6 @@ name: easyPETG Bronze
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://www.3djake.com/3djake/easypetg-bronze
 primary_color:
   color_rgba: '#c2b56aff'
 properties: {}

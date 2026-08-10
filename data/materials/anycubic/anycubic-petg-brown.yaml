@@ -6,7 +6,6 @@ name: PETG Brown
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://store.anycubic.com/products/petg-filament?variant=45672722006178
 primary_color:
   color_rgba: '#a38e80ff'
 properties:

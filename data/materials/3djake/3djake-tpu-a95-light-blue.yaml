@@ -6,7 +6,6 @@ name: TPU A95 Light Blue
 class: FFF
 type: TPU
 abbreviation: TPU
-url: https://www.3djake.com/3djake/tpu-a95-light-blue
 primary_color:
   color_rgba: '#0066d9ff'
 properties:

@@ -6,7 +6,6 @@ name: TPU Basic Orange
 class: FFF
 type: TPU
 abbreviation: TPU
-url: https://www.amolen.com/products/tpu-basic
 primary_color:
   color_rgba: '#f07821ff'
 properties:

@@ -6,7 +6,6 @@ name: magicPLA Tropical Sea
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.3djake.com/3djake/magicpla-tropical-sea
 secondary_colors:
 - color_rgba: '#61c680ff'
 - color_rgba: '#39b9dbff'

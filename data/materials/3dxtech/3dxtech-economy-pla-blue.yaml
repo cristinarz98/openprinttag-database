@@ -6,7 +6,6 @@ name: Economy PLA blue
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.3dxtech.com/products/economy-pla?variant=52122515243371
 secondary_colors:
 - color_rgba: '#8ed9f9ff'
 tags:

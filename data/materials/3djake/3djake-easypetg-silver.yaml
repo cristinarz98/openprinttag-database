@@ -6,7 +6,6 @@ name: easyPETG Silver
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://www.3djake.com/3djake/easypetg-silver
 primary_color:
   color_rgba: '#999aa0ff'
 properties: {}

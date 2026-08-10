@@ -6,7 +6,6 @@ name: PLA Silk Dual Color Red & Gold
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.amolen.com/products/pla-silk-dual
 secondary_colors:
 - color_rgba: '#ff0505ff'
 - color_rgba: '#f6c500ff'

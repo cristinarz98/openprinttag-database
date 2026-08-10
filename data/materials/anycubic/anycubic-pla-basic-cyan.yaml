@@ -6,7 +6,6 @@ name: PLA Basic Cyan
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://store.anycubic.com/products/pla-filament?variant=45267277611170
 primary_color:
   color_rgba: '#23a3c7ff'
 tags:

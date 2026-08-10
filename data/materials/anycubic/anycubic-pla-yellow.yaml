@@ -6,7 +6,6 @@ name: PLA+ Yellow
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://store.anycubic.com/products/pla-plus-filament?variant=45096860024994
 primary_color:
   color_rgba: '#f3e500ff'
 tags:

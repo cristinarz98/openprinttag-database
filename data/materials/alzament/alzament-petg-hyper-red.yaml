@@ -6,7 +6,6 @@ name: PETG Hyper Red
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://www.alza.cz/EN/alsament-petg-hyper-1-kg-red-d12869965.htm
 primary_color:
   color_rgba: '#ec0000ff'
 properties: {}

@@ -6,7 +6,6 @@ name: PLA Silk Dual Color Gold & Fuchsia
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.amolen.com/products/pla-silk-dual
 secondary_colors:
 - color_rgba: '#e23288ff'
 - color_rgba: '#f6c500ff'

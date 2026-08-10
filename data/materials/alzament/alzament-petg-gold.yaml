@@ -6,7 +6,6 @@ name: PETG Gold
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://www.alza.cz/EN/alsament-petg-1-kg-gold-d12869970.htm
 primary_color:
   color_rgba: '#ddb95dff'
 properties: {}

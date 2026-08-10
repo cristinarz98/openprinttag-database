@@ -6,7 +6,6 @@ name: ASA White
 class: FFF
 type: ASA
 abbreviation: ASA
-url: https://www.3djake.com/3djake/asa-white
 primary_color:
   color_rgba: '#f5f5f5ff'
 properties: {}

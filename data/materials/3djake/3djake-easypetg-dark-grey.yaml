@@ -6,7 +6,6 @@ name: easyPETG Dark Grey
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://www.3djake.com/3djake/easypetg-dark-grey
 primary_color:
   color_rgba: '#3f4647ff'
 properties: {}

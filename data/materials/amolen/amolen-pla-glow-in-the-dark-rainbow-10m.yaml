@@ -6,7 +6,6 @@ name: PLA Glow-in-the-Dark Rainbow 10m
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.amolen.com/products/pla-glow?variant=41429903638551
 secondary_colors:
 - color_rgba: '#be2ed6ff'
 - color_rgba: '#6459ebff'

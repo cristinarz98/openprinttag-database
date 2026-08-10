@@ -6,7 +6,6 @@ name: PLA Temperature Color Change Black To Red To Yellow
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.amolen.com/products/pla-temperature?variant=40570860371991
 secondary_colors:
 - color_rgba: '#000000ff'
 - color_rgba: '#ffe15bff'

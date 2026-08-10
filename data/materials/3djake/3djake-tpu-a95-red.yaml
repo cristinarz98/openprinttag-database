@@ -6,7 +6,6 @@ name: TPU A95 Red
 class: FFF
 type: TPU
 abbreviation: TPU
-url: https://www.3djake.com/3djake/tpu-a95-red
 primary_color:
   color_rgba: '#ec0000ff'
 properties:

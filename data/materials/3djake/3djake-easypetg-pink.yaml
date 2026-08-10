@@ -6,7 +6,6 @@ name: easyPETG Pink
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://www.3djake.com/3djake/easypetg-pink
 primary_color:
   color_rgba: '#d93382ff'
 properties: {}

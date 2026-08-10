@@ -6,7 +6,6 @@ name: ASA White
 class: FFF
 type: ASA
 abbreviation: ASA
-url: https://3dpower-filament.com/en/products/filament-3dpower-asa-1-75mm-white-1kg-38.html
 primary_color:
   color_rgba: '#ffffffff'
 properties:

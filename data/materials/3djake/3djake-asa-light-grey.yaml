@@ -6,7 +6,6 @@ name: ASA Light Grey
 class: FFF
 type: ASA
 abbreviation: ASA
-url: https://www.3djake.com/3djake/asa-light-grey
 primary_color:
   color_rgba: '#ded9d4ff'
 properties: {}

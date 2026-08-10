@@ -6,7 +6,6 @@ name: PLA Basic Black
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://store.anycubic.com/products/pla-filament?_sasdk=dMTk4MDgyYmJhMDgyNjItMDFjMzk5NzVhM2ZlOTg2LTQ1MzgwNDI4LTIwNzM2MDAtMTk4MDgyYmJhMDk2YjE
 primary_color:
   color_rgba: '#212322ff'
 tags:

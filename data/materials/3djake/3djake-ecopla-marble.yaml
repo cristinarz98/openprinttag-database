@@ -6,7 +6,6 @@ name: ecoPLA Marble
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.3djake.com/3djake/ecopla-marble
 primary_color:
   color_rgba: '#d6d7d8ff'
 tags:

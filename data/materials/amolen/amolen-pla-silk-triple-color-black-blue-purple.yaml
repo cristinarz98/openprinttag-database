@@ -6,7 +6,6 @@ name: PLA Silk Triple Color Black Blue Purple
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.amolen.com/products/pla-silk-triple
 secondary_colors:
 - color_rgba: '#000000ff'
 - color_rgba: '#003287ff'

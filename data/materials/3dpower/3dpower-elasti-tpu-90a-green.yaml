@@ -6,7 +6,6 @@ name: Elasti TPU 90A Green
 class: FFF
 type: TPU
 abbreviation: TPU
-url: https://3dpower-filament.com/en/products/filament-3dpower-elasti-tpu-90a-1-75mm-green-0-5kg-146.html
 primary_color:
   color_rgba: '#206233ff'
 properties:

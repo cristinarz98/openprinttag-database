@@ -6,7 +6,6 @@ name: PETG Texture Silver
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://store.anycubic.com/products/petg-filament?variant=45672722202786
 primary_color:
   color_rgba: '#8a8d8fff'
 properties:

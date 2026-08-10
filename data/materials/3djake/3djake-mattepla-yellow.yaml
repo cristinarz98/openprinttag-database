@@ -6,7 +6,6 @@ name: mattePLA Yellow
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.3djake.com/3djake/mattepla-yellow
 primary_color:
   color_rgba: '#fadb24ff'
 tags:

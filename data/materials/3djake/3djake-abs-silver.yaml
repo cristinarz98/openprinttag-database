@@ -6,7 +6,6 @@ name: ABS Silver
 class: FFF
 type: ABS
 abbreviation: ABS
-url: https://www.3djake.com/3djake/abs-silver-4
 primary_color:
   color_rgba: '#9c9d9dff'
 tags:

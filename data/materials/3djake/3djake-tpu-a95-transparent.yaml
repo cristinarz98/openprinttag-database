@@ -6,7 +6,6 @@ name: TPU A95 Transparent
 class: FFF
 type: TPU
 abbreviation: TPU
-url: https://www.3djake.com/3djake/tpu-a95-transparent
 primary_color:
   color_rgba: '#dee2daff'
 tags:

@@ -6,7 +6,6 @@ name: easyPETG Red
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://www.3djake.com/3djake/easypetg-red
 primary_color:
   color_rgba: '#e72f1dff'
 properties: {}

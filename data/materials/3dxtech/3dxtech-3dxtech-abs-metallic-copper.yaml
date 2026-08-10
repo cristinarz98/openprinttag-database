@@ -6,7 +6,6 @@ name: 3DXTECH ABS Metallic Copper
 class: FFF
 type: ABS
 abbreviation: ABS
-url: https://www.3dxtech.com/products/3dxtech-r-abs?variant=43864603000885
 primary_color:
   color_rgba: '#c06341ff'
 tags:

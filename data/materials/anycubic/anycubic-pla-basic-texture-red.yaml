@@ -6,7 +6,6 @@ name: PLA Basic Texture Red
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://store.anycubic.com/products/pla-filament?variant=46554829553826
 primary_color:
   color_rgba: '#ef3340ff'
 tags:

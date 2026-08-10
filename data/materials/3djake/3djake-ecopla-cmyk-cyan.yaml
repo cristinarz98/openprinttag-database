@@ -6,7 +6,6 @@ name: ecoPLA CMYK Cyan
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.3djake.com/3djake/ecopla-cmyk-cyan
 primary_color:
   color_rgba: '#5e84a4ff'
 tags:

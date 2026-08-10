@@ -6,7 +6,6 @@ name: Select PETG Green
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://3dpower-filament.com/en/products/filament-3dpower-select-petg-1-75mm-green-1kg-290.html
 primary_color:
   color_rgba: '#26a648ff'
 properties:

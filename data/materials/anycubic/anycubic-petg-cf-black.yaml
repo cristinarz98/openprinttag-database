@@ -6,7 +6,6 @@ name: PETG-CF Black
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://store.anycubic.com/products/petg-cf-filament?variant=46675710050466
 primary_color:
   color_rgba: '#292824ff'
 tags:

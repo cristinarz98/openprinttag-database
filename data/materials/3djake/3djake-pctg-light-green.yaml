@@ -6,7 +6,6 @@ name: PCTG Light Green
 class: FFF
 type: PCTG
 abbreviation: PCTG
-url: https://www.3djake.com/3djake/pctg-light-green
 primary_color:
   color_rgba: '#26a648ff'
 properties: {}

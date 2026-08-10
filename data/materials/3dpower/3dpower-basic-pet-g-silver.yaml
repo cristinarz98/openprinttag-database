@@ -6,7 +6,6 @@ name: Basic PET-G Silver
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://3dpower-filament.com/en/products/filament-3dpower-basic-pet-g-1-75mm-silver-1kg-180.html?query_id=1
 primary_color:
   color_rgba: '#abacb0ff'
 properties:

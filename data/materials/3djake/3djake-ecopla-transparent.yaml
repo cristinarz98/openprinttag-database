@@ -6,7 +6,6 @@ name: ecoPLA Transparent
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.3djake.com/3djake/ecopla-transparent?sai=1954
 primary_color:
   color_rgba: '#f2ece9ff'
 tags:

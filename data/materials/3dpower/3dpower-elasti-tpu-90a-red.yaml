@@ -6,7 +6,6 @@ name: Elasti TPU 90A Red
 class: FFF
 type: TPU
 abbreviation: TPU
-url: https://3dpower-filament.com/en/products/filament-3dpower-elasti-tpu-90a-1-75mm-red-0-5kg-144.html
 primary_color:
   color_rgba: '#bf2b2bff'
 properties:

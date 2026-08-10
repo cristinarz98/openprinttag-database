@@ -6,7 +6,6 @@ name: Basic PET-G Light Grey
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://3dpower-filament.com/en/products/filament-3dpower-basic-pet-g-1-75mm-light-grey-1kg-207.html?query_id=1
 primary_color:
   color_rgba: '#94a7b7ff'
 properties:

@@ -6,7 +6,6 @@ name: PLA Basic Bronze
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://store.anycubic.com/products/pla-filament?variant=45267277578402
 primary_color:
   color_rgba: '#7c4d3aff'
 tags:

@@ -6,7 +6,6 @@ name: PLA UV Color Change Green
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.amolen.com/products/pla-uv-change?variant=43880825126935
 secondary_colors:
 - color_rgba: '#206233ff'
 - color_rgba: '#e5f1eaff'

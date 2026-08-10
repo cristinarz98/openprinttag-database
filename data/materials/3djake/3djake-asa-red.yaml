@@ -6,7 +6,6 @@ name: ASA Red
 class: FFF
 type: ASA
 abbreviation: ASA
-url: https://www.3djake.com/3djake/asa-red
 primary_color:
   color_rgba: '#ec0000ff'
 properties: {}

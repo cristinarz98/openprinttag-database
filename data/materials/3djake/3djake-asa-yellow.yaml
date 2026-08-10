@@ -6,7 +6,6 @@ name: ASA Yellow
 class: FFF
 type: ASA
 abbreviation: ASA
-url: https://www.3djake.com/3djake/asa-yellow-2
 primary_color:
   color_rgba: '#f8cc00ff'
 properties: {}

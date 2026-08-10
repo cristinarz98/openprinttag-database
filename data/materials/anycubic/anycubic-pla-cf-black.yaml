@@ -6,7 +6,6 @@ name: PLA-CF Black
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://store.anycubic.com/products/pla-cf-filament?variant=46679783866530
 primary_color:
   color_rgba: '#212322ff'
 tags:

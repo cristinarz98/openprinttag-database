@@ -6,7 +6,6 @@ name: PETG Lime Green
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://store.anycubic.com/products/petg-filament?variant=45672722170018
 primary_color:
   color_rgba: '#78d64bff'
 properties:

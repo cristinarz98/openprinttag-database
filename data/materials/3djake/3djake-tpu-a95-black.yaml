@@ -6,7 +6,6 @@ name: TPU A95 Black
 class: FFF
 type: TPU
 abbreviation: TPU
-url: https://www.3djake.com/3djake/tpu-a95-black
 primary_color:
   color_rgba: '#292824ff'
 properties:

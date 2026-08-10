@@ -6,7 +6,6 @@ name: PLA+ Spring Leaf
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://store.anycubic.com/products/pla-plus-filament?variant=45796587012258
 primary_color:
   color_rgba: '#89a84fff'
 tags:

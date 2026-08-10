@@ -6,7 +6,6 @@ name: mysteryPLA Orion Nebula
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.3djake.com/3djake/mysterypla-orion-nebula
 secondary_colors:
 - color_rgba: '#db3fa9ff'
 - color_rgba: '#000000ff'

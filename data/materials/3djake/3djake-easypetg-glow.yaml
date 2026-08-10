@@ -6,7 +6,6 @@ name: easyPETG Glow
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://www.3djake.com/3djake/easypetg-glow
 primary_color:
   color_rgba: '#62e480ff'
 secondary_colors:

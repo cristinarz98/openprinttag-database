@@ -6,7 +6,6 @@ name: magicPLA Golden Alloy
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.3djake.com/3djake/magicpla-golden-alloy
 secondary_colors:
 - color_rgba: '#ce9f2eff'
 - color_rgba: '#c9d0d4ff'

@@ -6,7 +6,6 @@ name: magicPLA Frozen Raspberry
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.3djake.com/3djake/magicpla-frozen-raspberry
 secondary_colors:
 - color_rgba: '#d5447eff'
 - color_rgba: '#c9d0d4ff'

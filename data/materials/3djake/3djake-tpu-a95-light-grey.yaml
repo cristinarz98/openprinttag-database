@@ -6,7 +6,6 @@ name: TPU A95 Light Grey
 class: FFF
 type: TPU
 abbreviation: TPU
-url: https://www.3djake.com/3djake/tpu-a95-light-grey
 primary_color:
   color_rgba: '#d6d7d8ff'
 properties:

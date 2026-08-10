@@ -6,7 +6,6 @@ name: PLA Glow-in-the-Dark Rainbow Flux
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://www.amolen.com/products/pla-glow?variant=42604386451479
 secondary_colors:
 - color_rgba: '#40b6e4ff'
 - color_rgba: '#f884e2ff'

@@ -6,7 +6,6 @@ name: Basic PET-G Military Green
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://3dpower-filament.com/en/products/filament-3dpower-basic-pet-g-1-75mm-military-green-1kg-200.html?query_id=1
 primary_color:
   color_rgba: '#606935ff'
 properties:

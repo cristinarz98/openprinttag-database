@@ -6,7 +6,6 @@ name: PLA Basic Texture Grey
 class: FFF
 type: PLA
 abbreviation: PLA
-url: https://store.anycubic.com/products/pla-filament?variant=46444260589730
 primary_color:
   color_rgba: '#75787bff'
 tags:

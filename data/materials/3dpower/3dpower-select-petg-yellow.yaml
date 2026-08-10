@@ -6,7 +6,6 @@ name: Select PETG Yellow
 class: FFF
 type: PETG
 abbreviation: PETG
-url: https://3dpower-filament.com/en/products/filament-3dpower-select-petg-1-75mm-yellow-1kg-288.html
 primary_color:
   color_rgba: '#f8cc00ff'
 properties:

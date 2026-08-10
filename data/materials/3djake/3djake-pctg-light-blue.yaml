@@ -6,7 +6,6 @@ name: PCTG Light Blue
 class: FFF
 type: PCTG
 abbreviation: PCTG
-url: https://www.3djake.com/3djake/pctg-light-blue
 primary_color:
   color_rgba: '#0078bfff'
 properties: {}
