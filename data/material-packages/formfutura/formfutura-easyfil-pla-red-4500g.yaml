@@ -1,0 +1,9 @@
+uuid: 0915d0e5-df49-5737-92a3-9e3593cc5b73
+slug: formfutura-easyfil-pla-red-4500g
+class: FFF
+material:
+  slug: formfutura-easyfil-pla-red
+nominal_netto_full_weight: 4500
+filament_diameter: 1750
+gtin: 8719956557767
+url: https://www.formfutura.com/easyfil-pla

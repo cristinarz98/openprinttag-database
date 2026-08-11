@@ -1,0 +1,9 @@
+uuid: 8f0c36f7-cab8-532d-a6dc-422001d4abcb
+slug: formfutura-easyfil-pla-bronze-4500g
+class: FFF
+material:
+  slug: formfutura-easyfil-pla-bronze
+nominal_netto_full_weight: 4500
+filament_diameter: 1750
+gtin: 8719956554421
+url: https://www.formfutura.com/easyfil-pla
