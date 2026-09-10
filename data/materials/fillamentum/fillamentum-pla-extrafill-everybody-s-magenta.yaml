@@ -1,0 +1,18 @@
+uuid: d1879178-7d07-5e75-a742-1230856ed5a0
+slug: fillamentum-pla-extrafill-everybody-s-magenta
+brand:
+  slug: fillamentum
+name: PLA Extrafill "Everybody's Magenta"
+class: FFF
+type: PLA
+abbreviation: PLA
+primary_color:
+  color_rgba: '#c80181ff'
+  color_lab:
+    - 44.07
+    - 72.94
+    - -13.75
+properties: {}
+photos:
+  - url: /tmp/assets/fillamentum-pla-extrafill-everybody-s-magenta-0-09bd42fd.png
+    type: unspecified

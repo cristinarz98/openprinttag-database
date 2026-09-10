@@ -8,9 +8,20 @@ type: PLA
 abbreviation: PLA
 primary_color:
   color_rgba: '#aa0101ff'
+  color_lab:
+    - 35.15
+    - 59.0
+    - 49.02
 tags:
-- industrially_compostable
+  - industrially_compostable
 photos:
-- url: https://files.openprinttag.org/fillamentum/fillamentum-pla-extrafill-pearl-ruby-red/c13e66fe16a7.png
-  type: unspecified
-properties: {}
+  - url: https://files.openprinttag.org/fillamentum/fillamentum-pla-extrafill-pearl-ruby-red/c13e66fe16a7.png
+    type: unspecified
+properties:
+  density: 1.24
+  min_print_temperature: 190
+  max_print_temperature: 210
+  min_bed_temperature: 50
+  max_bed_temperature: 60
+  drying_temperature: 50
+  drying_time: 180
