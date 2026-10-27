@@ -8,7 +8,16 @@ type: PETG
 abbreviation: PETG
 primary_color:
   color_rgba: '#2941bdff'
+  color_lab:
+    - 33.83
+    - 35.98
+    - -67.39
 photos:
-- url: https://files.openprinttag.org/printedsolid/printedsolid-jessie-premium-petg-bold-blue/2ae32af189b7.png
-  type: unspecified
-properties: {}
+  - url: https://files.openprinttag.org/printedsolid/printedsolid-jessie-premium-petg-bold-blue/2ae32af189b7.png
+    type: unspecified
+properties:
+  density: 1.27
+  min_print_temperature: 240
+  max_print_temperature: 250
+  min_bed_temperature: 80
+  max_bed_temperature: 90
