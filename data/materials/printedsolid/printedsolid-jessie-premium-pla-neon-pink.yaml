@@ -8,10 +8,18 @@ type: PLA
 abbreviation: PLA
 primary_color:
   color_rgba: '#fc6d8eff'
+  color_lab:
+    - 64.64
+    - 57.39
+    - 9.75
 tags:
-- industrially_compostable
-- neon
+  - neon
 photos:
-- url: https://files.openprinttag.org/printedsolid/printedsolid-jessie-premium-pla-neon-pink/5af8e732c58d.png
-  type: unspecified
-properties: {}
+  - url: https://files.openprinttag.org/printedsolid/printedsolid-jessie-premium-pla-neon-pink/5af8e732c58d.png
+    type: unspecified
+properties:
+  density: 1.24
+  min_print_temperature: 200
+  max_print_temperature: 230
+  min_bed_temperature: 60
+  max_bed_temperature: 60

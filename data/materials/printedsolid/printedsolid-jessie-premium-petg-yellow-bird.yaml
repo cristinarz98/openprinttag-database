@@ -8,7 +8,16 @@ type: PETG
 abbreviation: PETG
 primary_color:
   color_rgba: '#fbe200ff'
+  color_lab:
+    - 89.35
+    - -9.14
+    - 88.69
 photos:
-- url: https://files.openprinttag.org/printedsolid/printedsolid-jessie-premium-petg-yellow-bird/0b55f7ebd30f.png
-  type: unspecified
-properties: {}
+  - url: https://files.openprinttag.org/printedsolid/printedsolid-jessie-premium-petg-yellow-bird/0b55f7ebd30f.png
+    type: unspecified
+properties:
+  density: 1.27
+  min_print_temperature: 240
+  max_print_temperature: 250
+  min_bed_temperature: 80
+  max_bed_temperature: 90

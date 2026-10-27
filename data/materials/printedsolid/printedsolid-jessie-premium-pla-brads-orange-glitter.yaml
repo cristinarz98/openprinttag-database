@@ -7,11 +7,14 @@ class: FFF
 type: PLA
 abbreviation: PLA
 primary_color:
-  color_rgba: '#f67405ff'
+  color_rgba: '#ff8133ff'
+  color_lab:
+    - 67.43
+    - 43.18
+    - 61.15
 tags:
-- glitter
-- industrially_compostable
+  - glitter
 photos:
-- url: https://files.openprinttag.org/printedsolid/printedsolid-jessie-premium-pla-brads-orange-glitter/142c57ff9b6f.png
-  type: unspecified
+  - url: https://files.openprinttag.org/printedsolid/printedsolid-jessie-premium-pla-brads-orange-glitter/142c57ff9b6f.png
+    type: unspecified
 properties: {}
